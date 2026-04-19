@@ -1,21 +1,882 @@
 {
   "arter": [
-    {"id":1,"danskNavn":"Stor Vandsalamander","latinskNavn":"Triturus cristatus","type":"bilag-iv","kategori":"padder","habitat":"Vandhuller, søer og damme med rent vand og rig vegetation.","kendetegn":"Op til 16 cm. Mørk brun/sort med orange bug med sorte pletter. Hannen har takket rygkam i yngletiden.","ynglested":"Yngler i vandhuller fra marts til juni.","rastested":"Overvintrer under sten, trærødder og i jordhuller.","foede":"Insektlarver, snegle, orme og små krebsdyr.","forvekslingsmuligheder":"Kan forveksles med lille vandsalamander, men er større.","udbredelse":"Hele Danmark undtagen Bornholm.","fredningsstatus":"Strengt beskyttet (Bilag IV)."},
-    {"id":2,"danskNavn":"Spidssnudet Frø","latinskNavn":"Rana arvalis","type":"bilag-iv","kategori":"padder","habitat":"Enge, moser, heder og lysåbne skove.","kendetegn":"4-6 cm. Spids snude. Brun med mørke pletter. Hannen bliver blå i yngletiden.","ynglested":"Lavvandede, solbeskinnede vandhuller.","rastested":"Overvintrer nedgravet i jorden.","foede":"Insekter, edderkopper, snegle og orme.","forvekslingsmuligheder":"Ligner butsnudet frø, men har spidsere snude.","udbredelse":"Jylland og dele af Fyn.","fredningsstatus":"Bilag IV-art."},
-    {"id":3,"danskNavn":"Markfirben","latinskNavn":"Lacerta agilis","type":"bilag-iv","kategori":"krybdyr","habitat":"Tørre, sandede områder. Heder, klitter, overdrev.","kendetegn":"Op til 24 cm. Hannen har grønne sider i yngletiden.","ynglested":"Graver æg ned i solbeskinnet, sandet jord.","rastested":"Overvintrer i huller i jorden fra oktober til april.","foede":"Insekter, edderkopper og andre smådyr.","forvekslingsmuligheder":"Kan forveksles med skovfirben.","udbredelse":"Primært Jylland, særligt hede- og klitområder.","fredningsstatus":"Strengt beskyttet (Bilag IV)."},
-    {"id":4,"danskNavn":"Odder","latinskNavn":"Lutra lutra","type":"bilag-iv","kategori":"pattedyr","habitat":"Vandløb, søer og kyster med rent vand.","kendetegn":"60-90 cm + hale. Brun pels, lys på bryst. Svømmehud.","ynglested":"Føder 2-3 unger i bo nær vandet.","rastested":"Hviler i huler under trærødder eller i vegetation.","foede":"Primært fisk, også krebs og frøer.","forvekslingsmuligheder":"Kan forveksles med mink, men odder er større.","udbredelse":"Stigende i hele Danmark.","fredningsstatus":"Totalfredet siden 1967."},
-    {"id":5,"danskNavn":"Løgfrø","latinskNavn":"Pelobates fuscus","type":"bilag-iv","kategori":"padder","habitat":"Sandede områder nær vandhuller.","kendetegn":"4-8 cm. Lodret pupil. Stor grabeskive. Lugter af hvidløg.","ynglested":"Større, solbeskinnede vandhuller.","rastested":"Graver sig ned i sandet jord.","foede":"Insekter, snegle og orme.","forvekslingsmuligheder":"Lodret pupil adskiller den fra andre frøer.","udbredelse":"Sjælden. Østdanmark og Bornholm.","fredningsstatus":"Strengt beskyttet (Bilag IV)."},
-    {"id":6,"danskNavn":"Flodlampret","latinskNavn":"Lampetra fluviatilis","type":"ferskvandsfisk","kategori":"fisk","habitat":"Lever som voksen i havet. Vandrer op i vandløb for at gyde.","kendetegn":"Åleformet, 25-40 cm. Sugeskive med tænder. 7 gællehuller.","ynglested":"Gyder på grus/stenbund i vandløb april-maj.","rastested":"Larverne lever nedgravet i sand/mudder.","foede":"Voksne er parasitter på fisk.","forvekslingsmuligheder":"Kan forveksles med bæklampret (mindre).","udbredelse":"Vandløb med udløb til Nordsøen.","fredningsstatus":"Habitatdirektivets bilag II."},
-    {"id":7,"danskNavn":"Stalling","latinskNavn":"Thymallus thymallus","type":"ferskvandsfisk","kategori":"fisk","habitat":"Rene, kølige vandløb med moderat strøm.","kendetegn":"30-50 cm. Sølvgrå med stor, farverig rygfinne. Lugter af timian.","ynglested":"Gyder på lavvandet grusbund i april-maj.","rastested":"Holder til i dybe høller.","foede":"Primært insekter (døgnfluer, vårfluer).","forvekslingsmuligheder":"Den store rygfinne gør den umiskendelig.","udbredelse":"Jyske åer: Gudenå, Skjern Å m.fl.","fredningsstatus":"Fredningstid 15/3-15/5."}
+    {
+      "id": 1,
+      "danskNavn": "Stor Vandsalamander",
+      "latinskNavn": "Triturus cristatus",
+      "type": "bilag-iv",
+      "kategori": "padder",
+      "habitat": "Solbeskinnede, fiskeløse vandhuller med rig undervandsvegetation. pH-optimum 6,5-8,5. Terrestrisk: Løvskove, krat, haver inden for 500m fra ynglevand.",
+      "kendetegn": {
+        "voksen": "12-16 cm. Mørkebrun til sort, grovkornet vortet hud. Bug kraftigt orange med individuelt unikt mønster af sorte pletter (foto-ID muligt).",
+        "hanYngledragt": "Høj, dybt takket rygkam med sort-hvidt båndet mønster. Sølvhvid stribe på halesiderne. Kloaken stærkt opsvulmet.",
+        "hunYngledragt": "Ingen kam. Orange stribe langs halens nedre kant.",
+        "juvenile": "3-5 cm efter metamorfose. Mere ensfarvet gulbrun. Bugens orange mindre intens.",
+        "larve": "Op til 6-9 cm. Ydre fjerformede gæller. TYDELIG mørk længdestribe på halesømmen. Snuden mere but end lille vandsalamander."
+      },
+      "fysiologi": {
+        "hud": "Tykkere og mere kirtelagtig end lille vandsalamander. Producerer tetrodotoxin-lignende alkaloider.",
+        "respiration": "Kan optage 70% af ilt gennem huden i vand. Larvernes gæller meget effektive.",
+        "kromosomer": "2n = 24",
+        "temperatur": "Aktivitet 4-20°C. Optimal yngletemperatur 10-15°C. Dør over 25°C vedvarende.",
+        "regeneration": "Kan regenerere lemmer, hale og dele af øjne.",
+        "levetid": "Op til 15-17 år i naturen, 25 år i fangenskab."
+      },
+      "ynglested": "Vandhuller 50-500 m², dybde 0,5-1,5m. Æglægning marts-juni. 200-400 æg ENKELTVIS foldet i blade.",
+      "rastested": "Overvintrer på land oktober-marts i frostfrie huller ned til 1m dybde.",
+      "foede": "I vand: Dafnier, insektlarver, haletudser. På land: Regnorme, snegle, bænkebidere.",
+      "forvekslingsmuligheder": {
+        "lilleVandsalamander": "Mindre (7-10 cm), glattere hud, hannens kam UBRUDT og bølget, mangler sølvhvid halestribe, larverne mangler tydelig mørk stribe på halesøm."
+      },
+      "udbredelse": "Hele Danmark undtagen Bornholm. 50-70% tilbagegang siden 1950.",
+      "fredningsstatus": "Habitatdirektivets bilag IV. Strengt beskyttet."
+    },
+    {
+      "id": 2,
+      "danskNavn": "Lille Vandsalamander",
+      "latinskNavn": "Lissotriton vulgaris",
+      "type": "bilag-iv",
+      "kategori": "padder",
+      "habitat": "Bredere habitatpræference. Vandhuller, grøfter, havedamme. Tolererer lavere pH (ned til 5,5) og lettere forurening.",
+      "kendetegn": {
+        "voksen": "7-11 cm. Glat, fløjlsagtig hud UDEN grove vorter. Bug orange til gullig med mindre kontrastrige pletter.",
+        "hanYngledragt": "UBRUDT, bølget rygkam. Blåligt skær på kroppen. Sølvstribe med blå glans på halen.",
+        "hunYngledragt": "Ingen kam. Svag gullig stribe på halens underside.",
+        "juvenile": "2,5-3,5 cm efter metamorfose. Meget ensfarvet gulbrun.",
+        "larve": "Op til 3-4 cm. MANGLER tydelig mørk stribe på halesøm. Mere spids snude."
+      },
+      "fysiologi": {
+        "hud": "Tyndere og glattere. Mindre giftstoffer. Mere afhængig af fugtige omgivelser.",
+        "kromosomer": "2n = 22 (forskelligt fra stor vandsalamander)",
+        "temperatur": "Aktivitet 5-22°C. Mere varmetolerant.",
+        "levetid": "Op til 10-12 år."
+      },
+      "ynglested": "Mange typer stillestående vand. 200-300 æg foldet i blade enkeltvis.",
+      "rastested": "Under sten, i jordhuller, kældre. Tættere på ynglevand end stor vandsalamander.",
+      "foede": "Mindre byttedyr: Dafnier, vandlopper, små mygglarver.",
+      "forvekslingsmuligheder": {
+        "storVandsalamander": "Større (12-16 cm), GROVKORNET vortet hud, hannens kam TAKKET, larverne har tydelig mørk stribe på halesøm."
+      },
+      "udbredelse": "Hele Danmark inkl. Bornholm. Danmarks almindeligste salamander.",
+      "fredningsstatus": "Habitatdirektivets bilag IV i Danmark."
+    },
+    {
+      "id": 3,
+      "danskNavn": "Spidssnudet Frø",
+      "latinskNavn": "Rana arvalis",
+      "type": "bilag-iv",
+      "kategori": "padder",
+      "habitat": "Lysåbne, fugtige biotoper. Yngler i sure til neutrale vandhuller (pH 4,5-7). Ofte på næringsfattige, sandede jorde.",
+      "kendetegn": {
+        "voksen": "4-7 cm. SPIDS SNUDE (60° vinkel ovenfra). Lange bagben: HÆLLED NÅR TIL SNUDESPIDSEN. Bug oftest UPLETTET hvid.",
+        "fodrodsknude": "KRITISK: HØJ, SAMMENTRYKT, SPADEFORMET - ca. 1/2 til 2/3 af indertåens længde.",
+        "hanYngledragt": "HELE kroppen bliver INTENST HIMMELBLÅ (unik blandt europæiske frøer).",
+        "hun": "Aldrig blå. Rødlig-brun i yngletiden.",
+        "juvenile": "1-2 cm ved metamorfose. Tjek snudevinkel og fodrodsknude.",
+        "haletudse": "Op til 4-5 cm. Mere ensfarvet gulbrun. Halefinnen når IKKE helt til øjnene."
+      },
+      "fysiologi": {
+        "hud": "Relativt TYK hud - tilpasning til sure miljøer.",
+        "kromosomer": "2n = 24 (samme antal som butsnudet men FORSKELLIG karyotype)",
+        "temperatur": "Tidlig yngler - aktiv ved 5-6°C vandtemperatur.",
+        "osmoregulering": "Specielt tilpasset SURE MILJØER (pH 4,5-7).",
+        "levetid": "Op til 10-12 år."
+      },
+      "ynglested": "Marts-april, FØR butsnudet frø. Solbeskinnede vandhuller med tuegræsser. Æggeklumper 500-3000 æg.",
+      "rastested": "Overvintrer NEDGRAVET 5-20 cm i løs, sandet jord, ofte LANGT fra vand.",
+      "foede": "Biller, edderkopper, stankelben, snegle.",
+      "forvekslingsmuligheder": {
+        "butsnudetFroe": {
+          "snude": "Butsnudet: STUMP snude (90°+ vinkel).",
+          "bagben": "Butsnudet: Hælled NÅR IKKE til snude.",
+          "fodrodsknude": "VIGTIGST: Butsnudet har LAV, RUND knude (1/3 af indertåens længde).",
+          "bug": "Butsnudet har OFTE PLETTET bug.",
+          "yngledragt": "Butsnudet han bliver ALDRIG himmelblå - kun blågrå strube."
+        }
+      },
+      "udbredelse": "Primært Jylland og Fyn. Rødlistet som sårbar (VU).",
+      "fredningsstatus": "Habitatdirektivets bilag IV."
+    },
+    {
+      "id": 4,
+      "danskNavn": "Butsnudet Frø",
+      "latinskNavn": "Rana temporaria",
+      "type": "beskyttet",
+      "kategori": "padder",
+      "habitat": "Generalist. Yngler i mange vandtyper (pH 5-9). Tolererer skygge.",
+      "kendetegn": {
+        "voksen": "6-9 cm. STUMP SNUDE (90°+ vinkel). KORTE BAGBEN: Hælled NÅR IKKE til snude. Bug ofte med MØRK MARMORERING.",
+        "fodrodsknude": "LAV, RUND, BLØD - ca. 1/3 af indertåens længde.",
+        "hanYngledragt": "Strube BLÅGRÅ (ALDRIG helt kropsblå).",
+        "hun": "Rødlig-brun, kraftigt opsvulmet af æg.",
+        "juvenile": "1,5-2,5 cm. Fodrodsknudens form synlig selv hos juvenile.",
+        "haletudse": "Op til 4-5 cm. MØRKERE end spidssnudet. Halefinnen kan nå til øjnene."
+      },
+      "fysiologi": {
+        "hud": "Relativt tynd, fugtig hud.",
+        "kromosomer": "2n = 26 (FORSKELLIGT fra spidssnudet frø: 2n = 24)",
+        "temperatur": "Danmarks TIDLIGSTE yngler - kan yngle ved 4-5°C.",
+        "overlevelse": "Kan overleve kortvarig indfrysning pga. glukose som kryoprotektant.",
+        "levetid": "Op til 12-15 år."
+      },
+      "ynglested": "Februar-marts. Store æggeklumper (1000-4000 æg) der FLYDER OP TIL OVERFLADEN.",
+      "rastested": "Overvintrer i VAND eller på land. Kan tolerere lave iltniveauer.",
+      "foede": "Snegle, orme, biller, fluer, edderkopper.",
+      "forvekslingsmuligheder": {
+        "spidssnudetFroe": {
+          "snude": "Spidssnudet: SPIDS snude (60° vinkel).",
+          "bagben": "Spidssnudet: Hælled NÅR TIL snude.",
+          "fodrodsknude": "Spidssnudet: HØJ, SAMMENTRYKT, spadeformet.",
+          "bug": "Spidssnudet: Oftest UPLETTET.",
+          "yngledragt": "Spidssnudet han er HELT himmelblå."
+        }
+      },
+      "udbredelse": "Hele Danmark inkl. Bornholm. Danmarks ALMINDELIGSTE frø.",
+      "fredningsstatus": "Fredet (IKKE Bilag IV). Yngleområder ikke særskilt beskyttede."
+    },
+    {
+      "id": 5,
+      "danskNavn": "Løgfrø",
+      "latinskNavn": "Pelobates fuscus",
+      "type": "bilag-iv",
+      "kategori": "padder",
+      "habitat": "Sandede, løse jorde. Yngler i store, dybe (>50 cm) vandhuller.",
+      "kendetegn": {
+        "voksen": "4-8 cm. Kompakt krop, glat hud. LODRET PUPIL (eneste danske frø). Store fremstående øjne.",
+        "graveskive": "KRITISK: Stor, SKARP, hård graveskive på bagfoden - bruges til at grave BAGLÆNS.",
+        "giftsekretion": "Kraftig HVIDLØGSLUGT fra hudsekreter ved håndtering.",
+        "hanYngledragt": "Ingen tydelig yngledragt. Han lidt mindre med større forlemmer.",
+        "juvenile": "1,5-2 cm. Allerede med synlig graveskive og lodret pupil.",
+        "haletudse": "EKSTREMT STORE - op til 10-18 cm (Danmarks STØRSTE haletudser). Kan overvintre som haletudse."
+      },
+      "fysiologi": {
+        "hud": "Producerer svovlforbindelser (hvidløgslugt) som forsvar.",
+        "kromosomer": "2n = 24",
+        "gravning": "Graver BAGLÆNS ned i sand - kan grave 20-100 cm ned på minutter.",
+        "haletudseOverlevelse": "Kan forblive i larvstadiet op til 2 år (neoteni).",
+        "levetid": "Op til 8-10 år."
+      },
+      "ynglested": "April-maj. Æggeklumper som TYKKE, KORTE SNORE (5-15 cm) viklet om planter.",
+      "rastested": "NEDGRAVET 20-100 cm i sandet jord. Kun aktiv om natten og ved regn.",
+      "foede": "Biller, sommerfuglelarver, snegle, orme.",
+      "forvekslingsmuligheder": {
+        "ingenReel": "LODRET PUPIL og graveskive er diagnostiske. Ingen andre danske frøer har dette."
+      },
+      "udbredelse": "MEGET SJÆLDEN. Få isolerede bestande: Nordsjælland, Bornholm. 85-90% tilbagegang.",
+      "fredningsstatus": "Habitatdirektivets bilag IV. Rødlistet som Sårbar (VU)."
+    },
+    {
+      "id": 6,
+      "danskNavn": "Klokkefrø",
+      "latinskNavn": "Bombina bombina",
+      "type": "bilag-iv",
+      "kategori": "padder",
+      "habitat": "Lavtliggende vådområder med MANGE vandhuller. Kræver metapopulationsstruktur.",
+      "kendetegn": {
+        "voksen": "3,5-5 cm (lille). Fladtrykt krop. Bug med BLÅSORT OG ORANGE mønster (advarselstegning).",
+        "pupil": "HJERTEFORMEDE pupiller - unikt blandt danske frøer.",
+        "unkenreflex": "Ved fare: Kaster sig på ryggen og viser bugfarven.",
+        "hanYngledragt": "Parringsvorter på fingre. Kald produceres under vand.",
+        "juvenile": "Ca. 1 cm ved metamorfose. Bugmønster synligt fra start.",
+        "haletudse": "Spiraklet på BUGEN (unikt). Kan overvintre i vand."
+      },
+      "fysiologi": {
+        "hud": "TYNDESTE HUD blandt danske padder - op til 90% iltoptagelse gennem huden.",
+        "gift": "Producerer bombinin (antimikrobielle peptider) - gør den uspiselig.",
+        "kromosomer": "2n = 24",
+        "temperatur": "Varmekrævende. Foretrækker solvarme vandhuller.",
+        "levetid": "Op til 12-15 år."
+      },
+      "ynglested": "Maj-august. Æg i SMÅ PORTIONER over lang periode. Haletudser kan overvintre.",
+      "rastested": "MEGET VANDTILKNYTTET. Overvintrer i mudder på vandhulsbunden.",
+      "foede": "Dafnier, mygglarver, snegle - fouragerer ved vandoverfladen.",
+      "forvekslingsmuligheder": {
+        "ingenReel": "ORANGE-BLÅSORT bugtegning er UNIK. Hjerteformede pupiller også karakteristiske."
+      },
+      "udbredelse": "KUN sydlige øer: Sydsjælland, Lolland, Falster, Møn. Geografisk begrænset.",
+      "fredningsstatus": "Habitatdirektivets bilag II og IV. Rødlistet som Truet (EN). Højest prioriteret."
+    },
+    {
+      "id": 7,
+      "danskNavn": "Markfirben",
+      "latinskNavn": "Lacerta agilis",
+      "type": "bilag-iv",
+      "kategori": "krybdyr",
+      "habitat": "Tørre, soleksponerede habitater med løs, veldrænet jord. Heder, klitter, overdrev.",
+      "kendetegn": {
+        "voksenHan": "18-24 cm. Robust med relativt kort hale. I YNGLETID: GRØNNE FLANKER, brun ryg med lyse øjepletter.",
+        "voksenHun": "Aldrig grøn. Brun med karakteristiske LYSE ØJEPLETTER MED MØRK KERNE.",
+        "juvenile": "6-8 cm ved klækning. Brunlige med tydelige øjepletter - ligner hun."
+      },
+      "fysiologi": {
+        "temperaturregulering": "Ektotherm. Foretrukken kropstemperatur 30-34°C.",
+        "reproduktion": "ÆGLÆGGENDE (ovipar) - modsat skovfirben.",
+        "autotomi": "Kan afkaste halen ved rovdyrangreb.",
+        "levetid": "Op til 12-15 år."
+      },
+      "ynglested": "Parring maj-juni. Hunnen GRAVER 5-15 æg ned i solbeskinnet sandjord. Klækkes efter 6-10 uger.",
+      "rastested": "Under brædder, i stenbunker, gnavergange. Overvintrer oktober-marts.",
+      "foede": "Biller, edderkopper, sommerfugle, græshopper.",
+      "forvekslingsmuligheder": {
+        "skovfirben": {
+          "farve": "Skovfirben-han har ALDRIG grønne sider.",
+          "krop": "Skovfirben er SLANKERE med relativt LÆNGERE hale.",
+          "reproduktion": "Skovfirben FØDER LEVENDE UNGER."
+        }
+      },
+      "udbredelse": "Primært Jylland: Heder, klitter. Meget sjælden på Sjælland.",
+      "fredningsstatus": "Habitatdirektivets bilag IV."
+    },
+    {
+      "id": 8,
+      "danskNavn": "Hugorm",
+      "latinskNavn": "Vipera berus",
+      "type": "beskyttet",
+      "kategori": "krybdyr",
+      "habitat": "Varierede habitater med sol/skygge-mosaik: Heder, skovlysninger, moser, klitter.",
+      "kendetegn": {
+        "voksen": "50-70 cm (op til 90). Robust, tyk krop. TREKANTET hoved. LODRET PUPIL. ZIGZAGBÅND langs ryggen. V/X-mærke på hovedet.",
+        "farvevariation": "Grå (hanner), brun/rødlig (hunner). MELANISTISKE (sorte) individer forekommer.",
+        "juvenile": "15-18 cm ved fødslen. Giftapparat fuldt funktionelt fra fødslen."
+      },
+      "fysiologi": {
+        "gift": "HÆMOTOKSISK og svagt neurotoksisk. Sjældent livstruende for raske voksne.",
+        "reproduktion": "Føder LEVENDE UNGER (ovovivipar). Hunnen yngler ofte kun hvert 2-3 år.",
+        "levetid": "Op til 15-25 år."
+      },
+      "ynglested": "Parring april-maj. 5-20 levende unger i august-september.",
+      "rastested": "Under sten, i græstuer. Overvintrer ofte MANGE DYR SAMMEN.",
+      "foede": "Primært smågnavere. Dræber bytte med GIFTBID.",
+      "forvekslingsmuligheder": {
+        "snog": "Snog har RUND pupil, OVALT hoved, NAKKEPLETTER, ingen zigzag.",
+        "glatsnog": "Glatsnog har RUND pupil, GLATTE skæl, mørk øjenstribe."
+      },
+      "udbredelse": "Hele Danmark inkl. Bornholm. Danmarks ENESTE GIFTSLANGE.",
+      "fredningsstatus": "Fredet. Bid kræver ALTID lægehjælp."
+    },
+    {
+      "id": 9,
+      "danskNavn": "Odder",
+      "latinskNavn": "Lutra lutra",
+      "type": "bilag-iv",
+      "kategori": "pattedyr",
+      "habitat": "Vandløb, søer, kyster med rent vand. Territorier 10-40 km langs vandløb.",
+      "kendetegn": {
+        "voksen": "100-130 cm (inkl. hale 35-45 cm). Strømlinet krop. Tæt, vandafvisende pels. Svømmehud mellem alle tæer. Muskuløs hale tykkest ved basis.",
+        "spor": "5 tæer med svømmehud. Ekskrementer (SPRAINTS) på fremtrædende sten - sødlig lugt."
+      },
+      "fysiologi": {
+        "pels": "Dobbelt pelslag: 70.000 underhår/cm² fanger luft og isolerer.",
+        "dykning": "Kan dykke til 8-10 m og holde vejret i 6-8 minutter.",
+        "sanser": "Fremragende lugtesans. Kraftige knurhår detekterer fiskebevægelser.",
+        "levetid": "Op til 10-15 år. Trafikdrab er største dødsårsag."
+      },
+      "ynglested": "Føder 2-3 unger i bo (holte) tæt ved vand. Kan yngle hele året.",
+      "rastested": "Dagrastepladser i tæt vegetation, under trærødder. Marker territorium med spraints.",
+      "foede": "Primært fisk (50-80%): Især ål, hundestejle. Også krebs, frøer.",
+      "forvekslingsmuligheder": {
+        "mink": "Mink er MEGET MINDRE (40-55 cm), tynd ensartet hale, hvid hageplet, mørkere pels. Mink er INVASIV."
+      },
+      "udbredelse": "Comeback-art. Nu i hele Jylland, Fyn, spreder sig til Sjælland. 3000-4000 dyr.",
+      "fredningsstatus": "Habitatdirektivets bilag II og IV. Totalfredet siden 1967."
+    },
+    {
+      "id": 10,
+      "danskNavn": "Bæklampret",
+      "latinskNavn": "Lampetra planeri",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Små, rene vandløb med sandet/mudret bund. HELE livscyklus i ferskvand.",
+      "kendetegn": {
+        "voksen": "12-16 cm. Åleformet, skælløs. Sugeskive med STUMPE tænder (KAN IKKE parasitere). 7 gælleåbninger.",
+        "larve": "Ammocoetes: 5-15 cm, ormeformede, BLINDE, lever nedgravet i 5-7 år."
+      },
+      "fysiologi": {
+        "ingenKaeber": "Kæbeløst hvirveldyr. Bruskskelet, ingen skæl, ingen svømmeblære.",
+        "fordoejelse": "VOKSNE ÆDER IKKE - fordøjelsessystemet degenererer. Lever af oplagsnæring.",
+        "levetid": "6-8 år totalt. Dør efter gydning (semelpar)."
+      },
+      "ynglested": "April-maj på grusbund. DØR EFTER GYDNING.",
+      "rastested": "Larver nedgravet i sand/mudder i 5-7 år som filterfødere.",
+      "foede": "Larver: Filterfødere på bakterier, alger. Voksne: ÆDER IKKE.",
+      "forvekslingsmuligheder": {
+        "flodlampret": "Flodlampret er STØRRE (25-40 cm), har SKARPE tænder, er ANADROM."
+      },
+      "udbredelse": "Jyske vandløb: Gudenå, Skjern Å, Storå. Indikatorart for god vandkvalitet.",
+      "fredningsstatus": "Habitatdirektivets bilag II."
+    },
+    {
+      "id": 11,
+      "danskNavn": "Flodlampret",
+      "latinskNavn": "Lampetra fluviatilis",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "ANADROM. Voksne i kystvande, gyder i ferskvand.",
+      "kendetegn": {
+        "voksen": "25-40 cm. Sugeskive med SKARPE tænder (KAN parasitere). Blågrå ryg, sølvhvid bug.",
+        "larve": "Ammocoetes, 5-15 cm. Kan ikke skelnes fra bæklampret uden genetik."
+      },
+      "fysiologi": {
+        "parasitisme": "Voksne PARASITERER havfisk. Udskiller antikoagulant, suger blod og væv.",
+        "levetid": "6-8 år totalt. Dør efter gydning."
+      },
+      "ynglested": "April-maj på grusbund i vandløb. Dør efter gydning.",
+      "rastested": "Larver nedgravet 3-5 år. Voksne parasiterer i havet 1-2 år.",
+      "foede": "Larver: Filterfødere. Voksne: PARASITTER på sild, torsk, makrel.",
+      "forvekslingsmuligheder": {
+        "baeklampret": "Bæklampret er MINDRE, har STUMPE tænder, lever kun i ferskvand.",
+        "havlampret": "Havlampret er STØRRE (op til 100 cm), MARMORERET."
+      },
+      "udbredelse": "Vandløb med udløb til Nordsøen og Limfjorden.",
+      "fredningsstatus": "Habitatdirektivets bilag II og V."
+    },
+    {
+      "id": 12,
+      "danskNavn": "Ål",
+      "latinskNavn": "Anguilla anguilla",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Alle typer ferskvand, brakvand, kystvande. KATADROM - gyder i Sargassohavet.",
+      "kendetegn": {
+        "gulaal": "30-80 cm (hunner op til 100+ cm). Slangeformet. Sammenvoksede finner. Gulbrun med GUL bug.",
+        "blankaal": "Vandringsstadiet. SØLVGLINSENDE sider, STØRRE ØJNE. Fordøjelsessystem degenererer.",
+        "glasaal": "5-8 cm, HELT GENNEMSIGTIGE juvenile fra Sargassohavet."
+      },
+      "fysiologi": {
+        "livscyklus": "Ekstraordinær: Gyder i Sargassohavet → larver driver til Europa (1-3 år) → glasål → gulål (5-30+ år) → blankål → 5000+ km tilbage til Sargasso → død.",
+        "overlevelse": "Kan overleve lang tid ude af vand. Kan kravle over land.",
+        "levetid": "Op til 50-80+ år (rekord 88 år)."
+      },
+      "ynglested": "SARGASSOHAVET. Ingen har set ål gyde.",
+      "rastested": "Gulål nataktiv - skjuler sig i mudder, under sten om dagen.",
+      "foede": "Gulål: Snegle, orme, krebsdyr, fisk. Blankål: ÆDER IKKE under vandring.",
+      "forvekslingsmuligheder": {
+        "lampretter": "Lampretter har sugeskive (ingen kæber), 7 gælleåbninger, ingen parrede finner."
+      },
+      "udbredelse": "Hele Danmark. Tidligere ekstremt almindelig - nu KRITISK TRUET globalt (90-99% tilbagegang).",
+      "fredningsstatus": "KRITISK TRUET (CR). CITES bilag II. Totalforbud mod glasålsfiskeri i EU."
+    },
+    {
+      "id": 13,
+      "danskNavn": "Laks",
+      "latinskNavn": "Salmo salar",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "ANADROM. Gyder i rene, iltholdige vandløb med grusbund. Opvækst 1-4 år, derefter 1-3 år i Nordatlanten.",
+      "kendetegn": {
+        "havdragt": "60-120 cm (op til 150 cm). Sølvfarvet. Pletter OVERVEJENDE OVER sidelinjen. SLANK halerod. Overkæbe NÅR IKKE bagom øjet.",
+        "gydedragt": "Rødbruin. Hannen udvikler KROGKÆBE.",
+        "parr": "10-15 cm. Brunlige med 8-11 mørke TVÆRMÆRKER og røde prikker."
+      },
+      "fysiologi": {
+        "homing": "Op til 95% vender tilbage til præcis fødested.",
+        "smoltifikation": "Fysiologisk transformation til saltvandsfisk.",
+        "springevne": "Kan springe 3-4 meter over hindringer.",
+        "levetid": "4-8 år totalt."
+      },
+      "ynglested": "Oktober-januar på grusbund. Hunnen graver gydegrube (redd). 1500-2000 æg/kg.",
+      "rastested": "Parr territoriale i stryg. Voksne ved Færøerne/Grønland.",
+      "foede": "Parr: Døgnfluelarver, vårfluelarver. I havet: Fisk, krebsdyr. ÆDER IKKE under gydning.",
+      "forvekslingsmuligheder": {
+        "havoerred": {
+          "pletter": "Havørred: Pletter BÅDE over og under sidelinje.",
+          "halerod": "Havørred: KRAFTIGERE halerod.",
+          "kaebe": "Havørred: Overkæbe RÆKKER BAGOM øjet."
+        }
+      },
+      "udbredelse": "Vestjyske åer: Skjern Å, Storå, Varde Å, Gudenå. Genopretning succesfuld.",
+      "fredningsstatus": "Habitatdirektivets bilag II og V. Rødlistet som Sårbar (VU)."
+    },
+    {
+      "id": 14,
+      "danskNavn": "Stalling",
+      "latinskNavn": "Thymallus thymallus",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Kølige, rene vandløb med moderat strøm. Kræver høj iltmætning og temperatur under 20°C.",
+      "kendetegn": {
+        "voksen": "30-50 cm (op til 60). Sølvgrå. KARAKTERISTISK STOR RYGFINNE med rødviolette og grønne farver. Fedtfinne.",
+        "lugt": "Lugter af TIMIAN (thymol) - deraf navnet Thymallus."
+      },
+      "fysiologi": {
+        "rygfinneFunktion": "Bruges i parringsadfærd - hannen folder finnen ud.",
+        "temperatur": "FØLSOM over 18-20°C, dør over 22-24°C.",
+        "levetid": "Op til 14-18 år."
+      },
+      "ynglested": "April-maj på lavvandet grusbund. Hunnen graver gydegrube.",
+      "rastested": "Bag sten, under udhæng, i dybe høller. Stationær fisk med revir.",
+      "foede": "Primært OVERFLADEINSEKTER: Døgnfluer, vårfluer, stikmyg. Visuelt orienteret.",
+      "forvekslingsmuligheder": {
+        "ingen": "Den STORE, FARVEDE RYGFINNE er UNIK blandt danske ferskvandsfisk."
+      },
+      "udbredelse": "Jyske vandløb: Gudenå, Karup Å, Storå. Ikke på øerne.",
+      "fredningsstatus": "Habitatdirektivets bilag V. Fredningstid 15/3-15/5. Mindstemål 33 cm."
+    },
+    {
+      "id": 15,
+      "danskNavn": "Snæbel",
+      "latinskNavn": "Coregonus oxyrinchus",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "ANADROM helt. Voksne i Vadehavet, gyder i vandløb i Sønderjylland.",
+      "kendetegn": {
+        "voksen": "30-50 cm (op til 70). Sølvfarvet. LANG, SPIDS SNUDE (oxyrinchus). Lille mund under snuden. Fedtfinne. Løstsiddende skæl."
+      },
+      "fysiologi": {
+        "snudeFunktion": "Lang snude til at rode i bunden efter bunddyr.",
+        "unik": "Én af verdens mest GEOGRAFISK BEGRÆNSEDE fisk.",
+        "levetid": "Op til 8-10 år."
+      },
+      "ynglested": "November-december på grusbund i Vidå-systemet.",
+      "rastested": "Voksne i Vadehavet i tidevandszonen. Ungfisk i vandløb 1-2 år.",
+      "foede": "I Vadehavet: Børsteorme, muslinger, krebsdyr. I ferskvand: Insektlarver.",
+      "forvekslingsmuligheder": {
+        "helt": "Helt har STUMP snude, lever i SØER."
+      },
+      "udbredelse": "KUN Vadehavsregionen. Gyder primært i Vidå. Én af verdens MEST TRUEDE fisk.",
+      "fredningsstatus": "Habitatdirektivets bilag II og IV. Rødlistet som KRITISK TRUET (CR). LIFE-projekter."
+    },
+    {
+      "id": 16,
+      "danskNavn": "Dyndsmerling",
+      "latinskNavn": "Misgurnus fossilis",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Vegetationsrige, mudrede vandhuller og grøfter med blødbund.",
+      "kendetegn": {
+        "voksen": "15-25 cm (op til 30). Langstrakt, cylindrisk. 10 SKÆGTRÅDE. Brunlig med mørke længdestriber."
+      },
+      "fysiologi": {
+        "tarmrespiration": "Kan TARMÅNDE - sluger luft og optager ilt gennem tarmen.",
+        "udtoerringsOverlevelse": "Kan overleve UDTØRRING nedgravet i mudder i måneder.",
+        "levetid": "Op til 10-15 år."
+      },
+      "ynglested": "April-juni i tæt vegetation. Larver har ydre gæller.",
+      "rastested": "Nedgravet i mudder. Aktiv om natten.",
+      "foede": "Bunddyr, detritus, plantemateriale.",
+      "forvekslingsmuligheder": {
+        "pigsmerling": "Pigsmerling er MEGET MINDRE (8-12 cm), har kun 6 skægtråde og TORN under øjet."
+      },
+      "udbredelse": "SJÆLDEN. Sydsjælland, Lolland-Falster, Bornholm. STÆRKT tilbagegående.",
+      "fredningsstatus": "Habitatdirektivets bilag II. Rødlistet som TRUET (EN)."
+    },
+    {
+      "id": 17,
+      "danskNavn": "Aborre",
+      "latinskNavn": "Perca fluviatilis",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Generalist - næsten alle ferskvandstyper. Tolererer brakvand op til 10‰.",
+      "kendetegn": {
+        "voksen": "15-35 cm (op til 50+). Grønlig med 5-7 MØRKE TVÆRBÅND. ORANGE-RØDE bug- og analfinner. To ADSKILTE RYGFINNER - forreste med PIGGE.",
+        "hoved": "Gællelåget har en SKARP TORN bagud."
+      },
+      "fysiologi": {
+        "kostskifte": "Ontogenetisk: Zooplankton → invertebrater → FISKESPISENDE (inkl. kannibalisme).",
+        "levetid": "Op til 15-22 år."
+      },
+      "ynglested": "April-maj. Æg som BÅNDFORMEDE SLØR viklet om vegetation.",
+      "rastested": "Nær strukturer: Vegetation, stenbunker, træstubbe.",
+      "foede": "Juvenile: Zooplankton. Store: Primært FISK inkl. mindre aborrer.",
+      "forvekslingsmuligheder": {
+        "sandart": "Sandart har SPIDST hoved, glasagtige øjne, INGEN tværbånd, ingen rød finnefarve."
+      },
+      "udbredelse": "Hele Danmark. En af de ALMINDELIGSTE ferskvandsfisk.",
+      "fredningsstatus": "Ingen særlig beskyttelse. Almindelig sportsfisk."
+    },
+    {
+      "id": 18,
+      "danskNavn": "Gedde",
+      "latinskNavn": "Esox lucius",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Stillestående og langsomt rindende vand med vegetation.",
+      "kendetegn": {
+        "voksen": "50-100 cm (hunner op til 140 cm, 30+ kg). Langstrakt. FLAD, LANG SNUDE ('andenæb'). Stor mund med SKARPE TÆNDER. Ryg- og analfinne langt tilbage.",
+        "koensforskelle": "HUNNER meget STØRRE end hanner."
+      },
+      "fysiologi": {
+        "jaegerstrategi": "BAGHOLDSJAEGER. Acceleration op til 4 m/sek. Kan tage bytte op til 1/3 af egen længde.",
+        "levetid": "Op til 25-30 år."
+      },
+      "ynglested": "Februar-april på oversvømmet vegetation. 200.000-500.000 æg.",
+      "rastested": "I eller nær VEGETATION. Står ubevægelig og venter på bytte.",
+      "foede": "Næsten REN FISKESPISER. Også frøer, fugleunger, rotter, mindre gedder. KANNIBALISTISK.",
+      "forvekslingsmuligheder": {
+        "ingen": "Kombinationen af FLADT HOVED, LANG SNUDE og finner langt tilbage er UNIK."
+      },
+      "udbredelse": "Hele Danmark. En af de mest IKONISKE ferskvandsfisk.",
+      "fredningsstatus": "Lokale regler. Populær sportsfisk."
+    },
+    {
+      "id": 19,
+      "danskNavn": "Skalle",
+      "latinskNavn": "Rutilus rutilus",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Generalist - næsten alle ferskvandstyper og brakvand op til 12‰.",
+      "kendetegn": {
+        "voksen": "15-25 cm (op til 40). SØLVBLANK med blågrøn ryg. RØDE ØJNE. Orange-røde finner."
+      },
+      "fysiologi": {
+        "tilpasningsevne": "Ekstremt tilpasningsdygtig. Lever i STIMER.",
+        "levetid": "Op til 15-20 år."
+      },
+      "ynglested": "April-maj i stimer på vegetation.",
+      "rastested": "I stimer i åbent vand eller nær vegetation.",
+      "foede": "Altædende: Zooplankton, insektlarver, snegle, plantemateriale.",
+      "forvekslingsmuligheder": {
+        "rudskalle": "Rudskalle: GYLDNE øjne (ikke røde), mere højrygget, mere intense finnefarvninger."
+      },
+      "udbredelse": "Hele Danmark. En af de ALMINDELIGSTE ferskvandsfisk.",
+      "fredningsstatus": "Ingen beskyttelse. Vigtig BYTTEFISK for rovfisk."
+    },
+    {
+      "id": 20,
+      "danskNavn": "Hundestejle (trepigged)",
+      "latinskNavn": "Gasterosteus aculeatus",
+      "type": "ferskvandsfisk",
+      "kategori": "fisk",
+      "habitat": "Ekstremt tilpasningsdygtig - ferskvand, brakvand, havvand.",
+      "kendetegn": {
+        "voksen": "4-8 cm. 3 FRIE PIGGE foran rygfinnen. Bugfinne reduceret til én pig.",
+        "hanYngledragt": "Strube og bug bliver INTENS RØD. Bygger rede og vogter æg."
+      },
+      "fysiologi": {
+        "forsvar": "Piggene kan låses i opret position - svær at sluge for rovfisk.",
+        "evolution": "MODEL-ORGANISME for evolutionsforskning.",
+        "levetid": "1-3 år."
+      },
+      "ynglested": "April-juli. Han bygger rede af plantedele. Vogter og lufter æg.",
+      "rastested": "Varierer - pelagisk, nær vegetation, i bredzonen.",
+      "foede": "Zooplankton og små invertebrater.",
+      "forvekslingsmuligheder": {
+        "nipigget": "Nipigget hundestejle har 7-12 KORTE pigge, slankere krop, han bliver SORT (ikke rød)."
+      },
+      "udbredelse": "Hele Danmark - OVERALT hvor der er vand.",
+      "fredningsstatus": "Ingen beskyttelse - ekstremt almindelig."
+    }
   ],
   "quizQuestions": [
-    {"id":1,"question":"Hvilket dyr har en orange bug med sorte pletter?","correctAnswer":"Stor Vandsalamander","options":["Stor Vandsalamander","Spidssnudet Frø","Markfirben","Løgfrø"],"difficulty":"let"},
-    {"id":2,"question":"Hvilken art bliver hannen blå i yngletiden?","correctAnswer":"Spidssnudet Frø","options":["Stor Vandsalamander","Spidssnudet Frø","Løgfrø","Butsnudet Frø"],"difficulty":"mellem"},
-    {"id":3,"question":"Hvor finder man typisk markfirben?","correctAnswer":"Tørre, sandede områder som heder og klitter","options":["Tørre, sandede områder som heder og klitter","Fugtige enge","Dybe skove","Vandhuller"],"difficulty":"let"},
-    {"id":4,"question":"Hvilken fisk har en sugeskive i stedet for kæber?","correctAnswer":"Flodlampret","options":["Flodlampret","Stalling","Ørred","Ål"],"difficulty":"let"},
-    {"id":5,"question":"Hvilken art lugter af hvidløg?","correctAnswer":"Løgfrø","options":["Løgfrø","Spidssnudet Frø","Butsnudet Frø","Grøn Frø"],"difficulty":"let"},
-    {"id":6,"question":"Hvilken fisk lugter af timian?","correctAnswer":"Stalling","options":["Stalling","Ørred","Laks","Flodlampret"],"difficulty":"mellem"},
-    {"id":7,"question":"Hvornår blev odderen totalfredet i Danmark?","correctAnswer":"1967","options":["1967","1982","1950","1992"],"difficulty":"svær"},
-    {"id":8,"question":"Hvilket dyr har grønne sider i yngletiden?","correctAnswer":"Markfirben (han)","options":["Markfirben (han)","Spidssnudet Frø","Skovfirben","Snog"],"difficulty":"mellem"}
+    {
+      "id": 1,
+      "question": "Hvilken padde har den TYNDESTE hud og kan optage op til 90% af ilt gennem huden?",
+      "correctAnswer": "Klokkefrø",
+      "options": ["Klokkefrø", "Løgfrø", "Spidssnudet frø", "Stor vandsalamander"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 2,
+      "question": "Hvad er kromosomtallet (2n) hos spidssnudet frø versus butsnudet frø?",
+      "correctAnswer": "Spidssnudet: 2n=24, Butsnudet: 2n=26",
+      "options": ["Spidssnudet: 2n=24, Butsnudet: 2n=26", "Begge har 2n=24", "Spidssnudet: 2n=26, Butsnudet: 2n=24", "Begge har 2n=22"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 3,
+      "question": "Hvordan adskilles fodrodsknuden hos spidssnudet fra butsnudet frø?",
+      "correctAnswer": "Spidssnudet: Høj, sammentrykt, spadeformet (1/2-2/3 af indertåen). Butsnudet: Lav, rund (1/3)",
+      "options": ["Spidssnudet: Høj, sammentrykt, spadeformet (1/2-2/3 af indertåen). Butsnudet: Lav, rund (1/3)", "De er ens", "Butsnudet har størst", "Kun spidssnudet har fodrodsknude"],
+      "difficulty": "svær",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 4,
+      "question": "Hvilken lampret har STUMPE tænder og kan derfor IKKE parasitere?",
+      "correctAnswer": "Bæklampret",
+      "options": ["Bæklampret", "Flodlampret", "Havlampret", "Alle kan parasitere"],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 5,
+      "question": "Hvordan adskilles larver af stor vandsalamander fra lille vandsalamander?",
+      "correctAnswer": "Stor: Tydelig mørk stribe på halesøm, større (6-9 vs 3-4 cm), mere but snude",
+      "options": ["Stor: Tydelig mørk stribe på halesøm, større (6-9 vs 3-4 cm), mere but snude", "Kan ikke adskilles", "Farven alene", "Lille er altid større"],
+      "difficulty": "svær",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 6,
+      "question": "Hvilken dansk fisk kan TARMÅNDE (optage ilt gennem tarmen)?",
+      "correctAnswer": "Dyndsmerling",
+      "options": ["Dyndsmerling", "Ål", "Karpe", "Aborre"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 7,
+      "question": "Hvor store kan løgfrøens haletudser blive?",
+      "correctAnswer": "Op til 10-18 cm - Danmarks største haletudser",
+      "options": ["Op til 10-18 cm - Danmarks største haletudser", "3-4 cm som andre", "5-6 cm", "Over 20 cm"],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 8,
+      "question": "Hvordan adskilles laks fra havørred på PLETMØNSTERET?",
+      "correctAnswer": "Laks: Pletter overvejende OVER sidelinjen. Havørred: Pletter BÅDE over og under",
+      "options": ["Laks: Pletter overvejende OVER sidelinjen. Havørred: Pletter BÅDE over og under", "Samme mønster", "Laks har flere pletter", "Kun havørred har pletter"],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 9,
+      "question": "Hvad er forskellen på haleroden hos laks og havørred?",
+      "correctAnswer": "Laks: SLANK halerod. Havørred: KRAFTIGERE halerod",
+      "options": ["Laks: SLANK halerod. Havørred: KRAFTIGERE halerod", "De er ens", "Havørred har slankere", "Kan ikke bruges"],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 10,
+      "question": "Hvad betyder 'semelpar' reproduktion?",
+      "correctAnswer": "Gyder kun én gang og dør derefter (fx lampretter)",
+      "options": ["Gyder kun én gang og dør derefter (fx lampretter)", "Gyder hvert år", "Kan gyde flere gange", "Yngelpleje"],
+      "difficulty": "mellem",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 11,
+      "question": "Hvilken fysiologisk tilpasning gør at sandart kan jage i uklart vand?",
+      "correctAnswer": "Tapetum lucidum - reflekterende lag bag retina",
+      "options": ["Tapetum lucidum - reflekterende lag bag retina", "Ekkolokalisering", "Elektroreceptorer", "Jager kun i klart vand"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 12,
+      "question": "Hvorfor lugter stalling af timian?",
+      "correctAnswer": "Indeholder stoffet thymol i slimlag og væv",
+      "options": ["Indeholder stoffet thymol i slimlag og væv", "Spiser timianplanter", "Det er en myte", "Kun i yngletiden"],
+      "difficulty": "mellem",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 13,
+      "question": "Hvilken hudsekretion producerer løgfrø ved håndtering?",
+      "correctAnswer": "Svovlforbindelser der lugter af hvidløg",
+      "options": ["Svovlforbindelser der lugter af hvidløg", "Bufotoxiner", "Tetrodotoxin", "Ingen sekretion"],
+      "difficulty": "mellem",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 14,
+      "question": "Hvilken salamander har det højeste kromosomtal?",
+      "correctAnswer": "Stor vandsalamander (2n=24 vs lille: 2n=22)",
+      "options": ["Stor vandsalamander (2n=24 vs lille: 2n=22)", "Lille vandsalamander", "Samme kromosomtal", "Varierer individuelt"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 15,
+      "question": "Hvad er specielt ved klokkefrøens pupilform?",
+      "correctAnswer": "Hjerteformede pupiller",
+      "options": ["Hjerteformede pupiller", "Runde pupiller", "Lodrette pupiller", "Vandrette pupiller"],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 16,
+      "question": "Hvilken dansk padde producerer de mest potente bufotoxiner?",
+      "correctAnswer": "Skrubtudse - cardioaktive steroider i parotidekirtler",
+      "options": ["Skrubtudse - cardioaktive steroider i parotidekirtler", "Klokkefrø", "Løgfrø", "Stor vandsalamander"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 17,
+      "question": "Hvad er unikt ved ålens livscyklus?",
+      "correctAnswer": "KATADROM - voksenliv i ferskvand, gyder i Sargassohavet (5000+ km væk)",
+      "options": ["KATADROM - voksenliv i ferskvand, gyder i Sargassohavet (5000+ km væk)", "Anadrom som laks", "Hele livet i ferskvand", "Hele livet i saltvand"],
+      "difficulty": "mellem",
+      "kategori": "livscyklus"
+    },
+    {
+      "id": 18,
+      "question": "Hvor længe kan en ål leve?",
+      "correctAnswer": "Op til 50-80+ år (rekord 88 år)",
+      "options": ["Op til 50-80+ år (rekord 88 år)", "5-10 år", "15-20 år", "Max 30 år"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 19,
+      "question": "Hvad karakteriserer snæblens snude?",
+      "correctAnswer": "LANG, SPIDS snude - helt har STUMP snude",
+      "options": ["LANG, SPIDS snude - helt har STUMP snude", "Samme snudeform som helt", "Helt har længere snude", "Varierer individuelt"],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 20,
+      "question": "Hvor mange skægtråde har dyndsmerling versus pigsmerling?",
+      "correctAnswer": "Dyndsmerling: 10. Pigsmerling: 6",
+      "options": ["Dyndsmerling: 10. Pigsmerling: 6", "Begge har 6", "Pigsmerling har flest", "Begge har 10"],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 21,
+      "question": "Hvilken padde har 'unkenreflex' som forsvar?",
+      "correctAnswer": "Klokkefrø - viser orange-blå bugfarve",
+      "options": ["Klokkefrø - viser orange-blå bugfarve", "Løgfrø", "Spidssnudet frø", "Alle tudser"],
+      "difficulty": "let",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 22,
+      "question": "Hvilken slange er Danmarks eneste med LODRET pupil?",
+      "correctAnswer": "Hugorm",
+      "options": ["Hugorm", "Snog", "Glatsnog", "Alle har lodret pupil"],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 23,
+      "question": "Hvilken slange er Danmarks eneste CONSTRICTOR (kvæler bytte)?",
+      "correctAnswer": "Glatsnog",
+      "options": ["Glatsnog", "Hugorm", "Snog", "Ingen danske slanger"],
+      "difficulty": "mellem",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 24,
+      "question": "Hvad er specielt ved skovfirbens reproduktion sammenlignet med markfirben?",
+      "correctAnswer": "Skovfirben føder LEVENDE unger - markfirben lægger æg",
+      "options": ["Skovfirben føder LEVENDE unger - markfirben lægger æg", "Begge lægger æg", "Begge føder levende", "Markfirben føder levende"],
+      "difficulty": "mellem",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 25,
+      "question": "Hvordan adskilles odder fra mink?",
+      "correctAnswer": "Odder: STØRRE, tyk hale tykkest ved basis, lysere hals. Mink: Mindre, tynd hale, hvid hageplet",
+      "options": ["Odder: STØRRE, tyk hale tykkest ved basis, lysere hals. Mink: Mindre, tynd hale, hvid hageplet", "Kun størrelsen", "Kun farven", "De ligner hinanden"],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 26,
+      "question": "Hvad er en 'ammocoete'?",
+      "correctAnswer": "Lampretlarve der lever nedgravet og filtrerer føde i 3-8 år",
+      "options": ["Lampretlarve der lever nedgravet og filtrerer føde i 3-8 år", "Voksen ål", "Ferskvandsmuslinge", "Type vandinsekt"],
+      "difficulty": "svær",
+      "kategori": "terminologi"
+    },
+    {
+      "id": 27,
+      "question": "Hvilken fisks æg lægges som BÅNDFORMEDE SLØR?",
+      "correctAnswer": "Aborre",
+      "options": ["Aborre", "Gedde", "Skalle", "Laks"],
+      "difficulty": "mellem",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 28,
+      "question": "Hvad kendetegner geddens jagtmetode?",
+      "correctAnswer": "BAGHOLDSJAEGER - ligger ubevægelig og accelererer eksplosivt",
+      "options": ["BAGHOLDSJAEGER - ligger ubevægelig og accelererer eksplosivt", "Jager aktivt i stimer", "Filtrerer plankton", "Graver efter bytte"],
+      "difficulty": "let",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 29,
+      "question": "Hvilken fisk har GLASAGTIGE, reflekterende øjne til natjagt?",
+      "correctAnswer": "Sandart",
+      "options": ["Sandart", "Aborre", "Gedde", "Skalle"],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 30,
+      "question": "Hvordan adskilles trepigged fra nipigget hundestejle?",
+      "correctAnswer": "Trepigged: 3 LANGE pigge, han bliver RØD. Nipigget: 7-12 KORTE pigge, han bliver SORT",
+      "options": ["Trepigged: 3 LANGE pigge, han bliver RØD. Nipigget: 7-12 KORTE pigge, han bliver SORT", "Samme antal pigge", "Nipigget har færre pigge", "Farven er ens"],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 31,
+      "question": "Hvad producerer stor vandsalamanders hud for giftstoffer?",
+      "correctAnswer": "Tetrodotoxin-lignende alkaloider",
+      "options": ["Tetrodotoxin-lignende alkaloider", "Bufotoxiner", "Ingen giftstoffer", "Cyanidforbindelser"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 32,
+      "question": "Hvilken frø har den TIDLIGSTE ynglesæson i Danmark?",
+      "correctAnswer": "Butsnudet frø (februar-marts)",
+      "options": ["Butsnudet frø (februar-marts)", "Spidssnudet frø", "Løgfrø", "Springfrø"],
+      "difficulty": "mellem",
+      "kategori": "livscyklus"
+    },
+    {
+      "id": 33,
+      "question": "Hvilken tilpasning har butsnudet frø til overvintring i vand?",
+      "correctAnswer": "Kan producere glukose som kryoprotektant og tolerere lav ilt",
+      "options": ["Kan producere glukose som kryoprotektant og tolerere lav ilt", "Kan ikke overvintre i vand", "Producerer antifrysepeptider", "Overvintrer kun på land"],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 34,
+      "question": "Hvad kendetegner stallingens RYGFINNE?",
+      "correctAnswer": "MEGET STOR med rødviolette og grønne farver - unik blandt danske fisk",
+      "options": ["MEGET STOR med rødviolette og grønne farver - unik blandt danske fisk", "Lille og farveløs", "Mangler rygfinne", "Ens med andre laksefisk"],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 35,
+      "question": "Hvor gyder snæbel i Danmark i dag?",
+      "correctAnswer": "Primært kun i Vidå-systemet",
+      "options": ["Primært kun i Vidå-systemet", "Alle vestjyske åer", "Gudenåen", "Gyder ikke længere i DK"],
+      "difficulty": "svær",
+      "kategori": "udbredelse"
+    },
+    {
+      "id": 36,
+      "question": "Hvad er 'spraints'?",
+      "correctAnswer": "Odderens ekskrementer brugt til territoriemarkering",
+      "options": ["Odderens ekskrementer brugt til territoriemarkering", "Bæverens dæmninger", "Fiskegydegruber", "Paddernes æg"],
+      "difficulty": "mellem",
+      "kategori": "terminologi"
+    },
+    {
+      "id": 37,
+      "question": "Hvilken padde har LODRET pupil?",
+      "correctAnswer": "Løgfrø (eneste danske frø)",
+      "options": ["Løgfrø (eneste danske frø)", "Klokkefrø", "Spidssnudet frø", "Alle tudser"],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 38,
+      "question": "Hvad er forskellen på snogens og hugormens PUPILFORM?",
+      "correctAnswer": "Snog: RUND pupil. Hugorm: LODRET pupil",
+      "options": ["Snog: RUND pupil. Hugorm: LODRET pupil", "Begge har rund pupil", "Begge har lodret pupil", "Snog har lodret"],
+      "difficulty": "let",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 39,
+      "question": "Hvad er markfirben-hannens karakteristiske farve i yngletiden?",
+      "correctAnswer": "GRØNNE flanker",
+      "options": ["GRØNNE flanker", "Blå", "Rød", "Samme farve hele året"],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 40,
+      "question": "Hvilken fisk er KRITISK TRUET (90-99% tilbagegang)?",
+      "correctAnswer": "Ål",
+      "options": ["Ål", "Laks", "Aborre", "Gedde"],
+      "difficulty": "mellem",
+      "kategori": "bevarelse"
+    }
   ]
 }
