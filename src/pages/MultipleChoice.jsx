@@ -12,9 +12,19 @@ const MultipleChoice = ({ onBack }) => {
   const [categoryFilter, setCategoryFilter] = useState('alle')
   const [difficultyFilter, setDifficultyFilter] = useState('alle')
   const [quizStarted, setQuizStarted] = useState(false)
+  const [shuffledOptions, setShuffledOptions] = useState([])
 
-  const categories = ['alle', 'morfologi', 'fysiologi', 'artsbestemmelse', 'adfærd', 'reproduktion', 'livscyklus', 'terminologi', 'bevarelse', 'udbredelse']
+  const categories = ['alle', 'morfologi', 'fysiologi', 'artsbestemmelse', 'adfærd', 'reproduktion', 'livscyklus', 'terminologi', 'bevarelse', 'udbredelse', 'økologi', 'taxonomi']
   const difficulties = ['alle', 'let', 'mellem', 'svær']
+
+  const shuffleArray = (array) => {
+    const shuffled = [...array]
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+    }
+    return shuffled
+  }
 
   const startQuiz = () => {
     let filtered = [...fauna.quizQuestions]
@@ -26,10 +36,21 @@ const MultipleChoice = ({ onBack }) => {
       filtered = filtered.filter(q => q.difficulty === difficultyFilter)
     }
     
-    const shuffled = filtered.sort(() => Math.random() - 0.5).slice(0, 10)
+    const shuffled = shuffleArray(filtered).slice(0, 10)
     setQuestions(shuffled)
+    
+    if (shuffled.length > 0) {
+      setShuffledOptions(shuffleArray(shuffled[0].options))
+    }
+    
     setQuizStarted(true)
   }
+
+  useEffect(() => {
+    if (questions.length > 0 && idx < questions.length) {
+      setShuffledOptions(shuffleArray(questions[idx].options))
+    }
+  }, [idx, questions])
 
   const handleAnswer = (ans) => {
     if (showResult) return
@@ -62,6 +83,7 @@ const MultipleChoice = ({ onBack }) => {
     setShowResult(false)
     setDone(false)
     setQuizStarted(false)
+    setShuffledOptions([])
   }
 
   if (!quizStarted) {
@@ -221,7 +243,7 @@ const MultipleChoice = ({ onBack }) => {
               </div>
 
               <div className="space-y-3">
-                {questions[idx].options.map((opt, i) => (
+                {shuffledOptions.map((opt, i) => (
                   <button
                     key={i}
                     onClick={() => handleAnswer(opt)}
