@@ -8,7 +8,7 @@ const AnimalCard = ({ animal }) => {
     setOpenSections(prev => ({ ...prev, [key]: !prev[key] }))
   }
 
-  const emoji = { padder: '🐸', krybdyr: '🦎', pattedyr: '🦦', fisk: '🐟' }
+  const emoji = { padder: '🐸', krybdyr: '🦎', pattedyr: '🦦', fisk: '🐟', insekt: '🦋', bløddyr: '🐚' }
 
   // Render nested object content (for kendetegn, fysiologi, forvekslingsmuligheder)
   const renderNestedContent = (data) => {
@@ -53,6 +53,9 @@ const AnimalCard = ({ animal }) => {
     { key: 'foede', label: '🍽️ Føde', color: 'nature' },
     { key: 'forvekslingsmuligheder', label: '⚠️ Forvekslinger', color: 'amber', isNested: true },
     { key: 'udbredelse', label: '🗺️ Udbredelse', color: 'water' },
+    { key: 'trusler', label: '🚨 Trusler', color: 'amber' },
+    { key: 'forvaltning', label: '🛠️ Forvaltning', color: 'nature' },
+    { key: 'overvaagning', label: '👁️ Overvågning', color: 'water' },
   ]
 
   const getColorClasses = (color) => {

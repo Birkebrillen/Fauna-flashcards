@@ -9,6 +9,8 @@ const About = ({ onBack }) => {
     krybdyr: fauna.arter.filter(a => a.kategori === 'krybdyr').length,
     pattedyr: fauna.arter.filter(a => a.kategori === 'pattedyr').length,
     fisk: fauna.arter.filter(a => a.kategori === 'fisk').length,
+    insekt: fauna.arter.filter(a => a.kategori === 'insekt').length,
+    bløddyr: fauna.arter.filter(a => a.kategori === 'bløddyr').length,
     bilagIV: fauna.arter.filter(a => a.type === 'bilag-iv').length,
     quiz: fauna.quizQuestions.length
   }
@@ -62,7 +64,7 @@ const About = ({ onBack }) => {
           </div>
           
           <div className="mt-4 pt-4 border-t border-gray-100">
-            <div className="flex justify-around text-center">
+            <div className="flex justify-around text-center flex-wrap gap-2">
               <div>
                 <span className="text-2xl">🐸</span>
                 <p className="text-sm text-gray-600">{stats.padder} padder</p>
@@ -78,6 +80,14 @@ const About = ({ onBack }) => {
               <div>
                 <span className="text-2xl">🐟</span>
                 <p className="text-sm text-gray-600">{stats.fisk} fisk</p>
+              </div>
+              <div>
+                <span className="text-2xl">🦋</span>
+                <p className="text-sm text-gray-600">{stats.insekt} insekter</p>
+              </div>
+              <div>
+                <span className="text-2xl">🐚</span>
+                <p className="text-sm text-gray-600">{stats.bløddyr} bløddyr</p>
               </div>
             </div>
           </div>

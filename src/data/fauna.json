@@ -29,7 +29,10 @@
         "lilleVandsalamander": "Mindre (7-10 cm), glattere hud, hannens kam UBRUDT og bølget, mangler sølvhvid halestribe, larverne mangler tydelig mørk stribe på halesøm."
       },
       "udbredelse": "Hele Danmark undtagen Bornholm. 50-70% tilbagegang siden 1950.",
-      "fredningsstatus": "Habitatdirektivets bilag IV. Strengt beskyttet."
+      "fredningsstatus": "Habitatdirektivets bilag IV. Strengt beskyttet.",
+      "trusler": "Opfyldning og overskygning af vandhuller. Eutrofiering. Udsætning af fisk og ænder. Vejtrafik nær ynglesteder. Vejsalt og havvandsindtrængen.",
+      "forvaltning": "Etablering og restaurering af lysåbne vandhuller (max 10% skygge). Sikring af mindst 200 m forbindelse mellem ynglesteder. Bevarelse af løvskove og krat som rasteområder. Paddehegn og -tunneller ved veje.",
+      "overvaagning": "Visuel optælling i ynglevandhuller april-juni. Larvefangst med ketsjer juni-juli. eDNA-analyse af vandprøver."
     },
     {
       "id": 2,
@@ -96,7 +99,10 @@
         }
       },
       "udbredelse": "Primært Jylland og Fyn. Sjælden på Sjælland. Rødlistet som sårbar (VU).",
-      "fredningsstatus": "Habitatdirektivets bilag IV. Fokusart i naturpleje."
+      "fredningsstatus": "Habitatdirektivets bilag IV. Fokusart i naturpleje.",
+      "trusler": "Dræning af lavvandede vandhuller. Tilgroning. Eutrofiering. Forsuring af ynglesteder. Tab af tilstødende løvskov.",
+      "forvaltning": "Bevarelse af temporære vandhuller. Restaurering af lysåbne, lavvandede ynglesteder. Bevarelse af løvskov og krat omkring vandhuller.",
+      "overvaagning": "Æg-tælling (klumper) i april-maj. Lytning efter kvækkende hanner. Visuel optælling og haletudsefangst."
     },
     {
       "id": 4,
@@ -165,7 +171,10 @@
         "butsnudetFroe": "Butsnudet har STUMP snude, KORTERE ben, mere robust krop, MINDRE trommehinde, ofte plettet bug."
       },
       "udbredelse": "Øst- og Sønderjylland, østlige Fyn, Sjælland, Lolland-Falster. Mangler i Nordjylland og på Bornholm.",
-      "fredningsstatus": "Habitatdirektivets bilag IV. Sårbar pga. tilknytning til ældre løvskov."
+      "fredningsstatus": "Habitatdirektivets bilag IV. Sårbar pga. tilknytning til ældre løvskov.",
+      "trusler": "Tab af lysåbne løvskove. Tilgroning af ynglevandhuller. Vejtrafik gennem skove. Skovdrift med tunge maskiner.",
+      "forvaltning": "Bevarelse af lysåben løvskov med vandhuller. Etablering af nye vandhuller i og ved skove. Hensyn ved skovdrift.",
+      "overvaagning": "Lytning efter kvækkende hanner marts-april. Æg-tælling. Larvefangst i ynglevandhuller."
     },
     {
       "id": 6,
@@ -196,7 +205,10 @@
         "ingenReel": "LODRET PUPIL og GRAVESKIVE er diagnostiske - ingen andre danske frøer har dette. Kan overfladisk ligne tudse men har glattere hud og ingen parotidekirtler."
       },
       "udbredelse": "MEGET SJÆLDEN. Få isolerede bestande: Nordsjælland (Gribskov), Bornholm, enkelte på Lolland. 85-90% tilbagegang. En af Danmarks MEST TRUEDE padder.",
-      "fredningsstatus": "Habitatdirektivets bilag IV. Rødlistet som Sårbar (VU). LIFE-projekter fokuserer på arten."
+      "fredningsstatus": "Habitatdirektivets bilag IV. Rødlistet som Sårbar (VU). LIFE-projekter fokuserer på arten.",
+      "trusler": "Tilgroning og udskygning af ynglevandhuller. Eutrofiering. Udsætning af fisk. Tab af løs sandet jord til nedgravning. Intensiv landbrugsdrift.",
+      "forvaltning": "Etablering af lysåbne, fiske-frie vandhuller. Bevarelse af løs sandet jord nær ynglesteder. Ekstensiv afgræsning. Sikring af spredningskorridorer.",
+      "overvaagning": "Lytning efter kvækkende hanner april-juni (bedst om natten). Haletudseregistrering juni-juli. eDNA-analyse i ynglevandhuller."
     },
     {
       "id": 7,
@@ -226,7 +238,10 @@
         "skrubtudse": "Skrubtudse er ENSFARVET brun, ingen grønne pletter, større skråtstillede parotidekirtler."
       },
       "udbredelse": "SJÆLDEN. Sydøstdanmark: Sydsjælland, Lolland-Falster, Møn, Bornholm. Ved nordgrænsen af udbredelse.",
-      "fredningsstatus": "Habitatdirektivets bilag IV. Rødlistet som Sårbar (VU). Kræver aktiv naturpleje af pionerhabitater."
+      "fredningsstatus": "Habitatdirektivets bilag IV. Rødlistet som Sårbar (VU). Kræver aktiv naturpleje af pionerhabitater.",
+      "trusler": "Tab af lavvandede, lysåbne vandhuller. Tilgroning. Manglende dynamik. Tab af bare jordflader til nedgravning.",
+      "forvaltning": "Etablering af lavvandede, fiske-frie vandhuller. Bevarelse af bare jordflader og soleksponerede skråninger. Ekstensiv afgræsning.",
+      "overvaagning": "Lytning efter den karakteristiske trillende kvækken april-juni. Visuel optælling og larvefangst."
     },
     {
       "id": 8,
@@ -256,7 +271,10 @@
         "ungSkrubtudse": "Ung skrubtudse mangler ALTID gul rygstribe, mere skråtstillede parotidekirtler."
       },
       "udbredelse": "Primært KYSTER: Vestjylland (Vadehavet til Thy), Læsø. Indlandsbestande i heder og grusgrave.",
-      "fredningsstatus": "Habitatdirektivets bilag IV. Kræver vedligeholdelse af pionerbiotoper og temporære vandsamlinger."
+      "fredningsstatus": "Habitatdirektivets bilag IV. Kræver vedligeholdelse af pionerbiotoper og temporære vandsamlinger.",
+      "trusler": "Tilgroning af klitlavninger og strandenge. Manglende dynamik i kystmiljøer. Forstyrrelse i ynglevandhuller. Eutrofiering.",
+      "forvaltning": "Etablering og pleje af lavvandede ynglesteder i klitlavninger og strandenge. Sikring af bare jordflader. Ekstensiv afgræsning.",
+      "overvaagning": "Lytning efter kvækkende hanner maj-juli. Visuel optælling og larvefangst i ynglevandhuller."
     },
     {
       "id": 9,
@@ -315,7 +333,10 @@
         "ingenReel": "ORANGE-BLÅSORT bugtegning er UNIK. Hjerteformede pupiller er også karakteristiske."
       },
       "udbredelse": "KUN SYDLIGE ØGER: Sydsjælland, Lolland, Falster, Møn. GEOGRAFISK BEGRÆNSET. Tidligere også Fyn og Jylland.",
-      "fredningsstatus": "Habitatdirektivets bilag II og IV. Rødlistet som Truet (EN). HØJEST PRIORITERET blandt padder. LIFE-projekter."
+      "fredningsstatus": "Habitatdirektivets bilag II og IV. Rødlistet som Truet (EN). HØJEST PRIORITERET blandt padder. LIFE-projekter.",
+      "trusler": "Mangel på lysåbne, lavvandede vandhuller med god vandkvalitet. Eutrofiering. Tilgroning. Udsætning af fisk og ænder. Indavl i små bestande. Manglende afgræsning.",
+      "forvaltning": "Etablering og restaurering af store, lavvandede vandhuller med periodiske oversvømmelser. Fjernelse af fisk. Ekstensiv afgræsning med kvæg (ikke får). Opdræt og dubletbestande for genetisk diversitet.",
+      "overvaagning": "Tælling af kvækkende hanner sidst april til sidst juni. Optælling af haletudser med ketsjer juni-august. Tælling af nyforvandlede individer juli-september."
     },
     {
       "id": 11,
@@ -347,7 +368,10 @@
         }
       },
       "udbredelse": "Primært JYLLAND: Heder, klitter. Spredt på Fyn. MEGET SJÆLDEN på Sjælland. Mangler på Bornholm.",
-      "fredningsstatus": "Habitatdirektivets bilag IV. Truet af tilgroning og tab af sandede habitater."
+      "fredningsstatus": "Habitatdirektivets bilag IV. Truet af tilgroning og tab af sandede habitater.",
+      "trusler": "Tilgroning af heder, overdrev og råstofgrave. Ændret vedligeholdelse af vej- og baneskråninger. Invasive arter som rynket rose i klitter. Fasaneudsætning på levesteder.",
+      "forvaltning": "Etablering af soleksponerede grusbunker som æglægningssubstrat. Slåning af vej- og jernbanerabatter. Udlægning af stenbunker og kvasbunker. Ekstensiv afgræsning. Rydning af invasiv rynket rose.",
+      "overvaagning": "Visuel registrering 3 gange i sæsonen (april-maj, juni, august-september). Fotografisk genkendelse via individuelle bugmønstre."
     },
     {
       "id": 12,
@@ -758,7 +782,10 @@
         "helt": "Helt har STUMP snude, lever i SØER (ikke anadrom)."
       },
       "udbredelse": "KUN Vadehavsregionen. Gyder PRIMÆRT i Vidå. Én af verdens MEST TRUEDE fisk.",
-      "fredningsstatus": "Habitatdirektivets bilag II og IV. Rødlistet som KRITISK TRUET (CR). LIFE-projekter."
+      "fredningsstatus": "Habitatdirektivets bilag II og IV. Rødlistet som KRITISK TRUET (CR). LIFE-projekter.",
+      "trusler": "Spærringer i vandløb. Forurening. Tab af gydeområder med rent grus. Hård vandløbsregulering.",
+      "forvaltning": "Fjernelse af spærringer. Restaurering af gydeområder med rent grus. Sikring af god vandkvalitet. Avlsprogram med udsætning.",
+      "overvaagning": "Elektrofiskeri i Vidå-systemet. Tælling af opvandrende fisk. Genetisk monitering af bestand."
     },
     {
       "id": 26,
@@ -1008,831 +1035,641 @@
       },
       "udbredelse": "HELE Danmark - OVERALT hvor der er vand.",
       "fredningsstatus": "Ingen beskyttelse - ekstremt almindelig."
+    },
+    {
+      "id": 36,
+      "danskNavn": "Bæver",
+      "latinskNavn": "Castor fiber",
+      "type": "bilag-iv",
+      "kategori": "pattedyr",
+      "habitat": "Vandløb, søer og andre ferskvandsområder med tilstødende skov eller buskads. Holder sig altid nær vandkanten.",
+      "kendetegn": {
+        "voksen": "Stor semi-akvatisk gnaver. Bredt fladt halestykke (bæverhale), kraftige fortænder, vandtæt pels. Vejer typisk 20-30 kg.",
+        "spor": "Friskgnavede grene, fældede træer, dæmninger og bæverbo (pinde og mudder) eller jordhuler i brinken."
+      },
+      "fysiologi": {
+        "levetid": "Bliver ofte mere end 10 år gammel i naturen.",
+        "aktivitet": "Hovedsageligt nataktiv. Mest aktiv marts-november.",
+        "social": "Socialt monogam. Lever i familiegrupper med dominant par + årsunger og ældre unger."
+      },
+      "ynglested": "Bæverbo eller jordhuler i brinken. Op til 5 unger fødes omkring maj. Indgang under vand.",
+      "rastested": "Samme bæverbo som ynglested. Familien benytter typisk flere bæverbo indenfor territoriet.",
+      "foede": "Kviste og blade fra løvtræer (særligt pil og asp), akvatisk vegetation. Sjældent længere end 50 m fra vandkanten.",
+      "forvekslingsmuligheder": {
+        "odder": "Odderen er meget mindre, har slank krop og rund hale uden flad halestykke."
+      },
+      "udbredelse": "Udsat i Nordvestjylland 1999 og Nordsjælland 2009-2011. Den jyske bestand vokser 7-10% årligt.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Forstyrrelser i territoriet i reproduktionsperioden. Trafik og løse hunde. Konflikter med menneskelige aktiviteter.",
+      "forvaltning": "Hegning af træer der skal beskyttes. Rørlægning af dæmninger sikrer vandgennemstrømning. At fjerne eller flytte individer er ikke holdbart.",
+      "overvaagning": "Registrering af aktive bæverterritorier ud fra bæverbo, friskgnavede grene, dæmninger og fødedepoter. Vildtkameraer supplerer."
+    },
+    {
+      "id": 37,
+      "danskNavn": "Hasselmus",
+      "latinskNavn": "Muscardinus avellanarius",
+      "type": "bilag-iv",
+      "kategori": "pattedyr",
+      "habitat": "Lagdelte løv- og blandingsskove med rig underskov. Også brede, varierede læhegn og krat i åbent land.",
+      "kendetegn": {
+        "voksen": "Lille trælevende gnaver med karakteristisk gylden-orange pels og lang pelset hale. Vejer 15-30 g.",
+        "rede": "Sommerreder af sammenflettede løvblade. Vinterreder på størrelse med tennisbolde, tætvævede."
+      },
+      "fysiologi": {
+        "levetid": "Typisk 3-5 år i naturen.",
+        "aktivitet": "Nataktiv. I vinterdvale fra oktober til april-maj.",
+        "reproduktion": "Lav reproduktionsrate. 1-2 kuld pr. år med 3-5 unger pr. kuld. Tæthed 1-2 individer pr. ha."
+      },
+      "ynglested": "Sommerreder placeret skjult i tæt vegetation, hulheder i træer eller opsatte redekasser. Første kuld juni-juli.",
+      "rastested": "Vinterreder placeret nær jorden i krat eller buskads, hvor stabil lav temperatur kan holdes.",
+      "foede": "Blomster, frugter, svampe og invertebrater. Foretrækker bøg, brombær, hyld, hassel, røn og pil.",
+      "forvekslingsmuligheder": {
+        "andre_smaagnavere": "Hasselmusens gylden-orange farve og lange pelsede hale adskiller den fra mus og rotter med nøgne haler."
+      },
+      "udbredelse": "Faldende siden 1980'erne. Senest observeret i Midt-, Syd- og Vestsjælland samt Sydfyn. Ikke i Jylland siden 2011.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Intensiv skovdrift. Fragmentering og tab af levesteder. Forstyrrelser under vinterdvale kan være fatale.",
+      "forvaltning": "Bevar varierede skove. Undgå rydning november-maj og juli-september. Opsæt redekasser. Sikr spredningskorridorer.",
+      "overvaagning": "NOVANA-overvågning baseret på eftersøgning af karakteristiske sommerreder og opsatte rederør. Marts-april opsætning, november genbesøg."
+    },
+    {
+      "id": 38,
+      "danskNavn": "Birkemus",
+      "latinskNavn": "Sicista betulina",
+      "type": "bilag-iv",
+      "kategori": "pattedyr",
+      "habitat": "Spredte bestande i nordvestlige og sydlige Jylland. Fugtige enge, afgræssede skrænter, heder, kornmarker og blandingsskov.",
+      "kendetegn": {
+        "voksen": "Lille nataktiv gnaver, 5-16 g. Karakteristisk sort rygstribe fra pande til hale, gulbrun øvrig pels. Halen op til halvanden gang længere end krop."
+      },
+      "fysiologi": {
+        "levetid": "Typisk op til 4 år.",
+        "aktivitet": "Nataktiv. I vinterdvale oktober-november til april-maj.",
+        "reproduktion": "Bliver først kønsmoden i andet leveår. Kun ét kuld om året med 3-8 unger."
+      },
+      "ynglested": "Underjordiske ynglereder. Drægtighed ca. 3 uger. Kuld fødes juni-august, selvstændige efter 5 uger.",
+      "rastested": "Underjordiske overvintringsreder i 20-40 cm dybde, på tørre, frostfrie steder som diger, skrænter og højtliggende heder.",
+      "foede": "Letfordøjelige frø, friske skud, bær, insekter. Insekter særligt vigtige for drægtige hunner i tidligt forår.",
+      "forvekslingsmuligheder": {
+        "almindelig_mus": "Birkemusens sorte rygstribe er unik. Halen er også markant længere end kroppen."
+      },
+      "udbredelse": "Spredte bestande i nordvestlige og sydlige Jylland. Bestanden vurderes i tilbagegang pga. fragmentering.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Forstyrrelse af yngle- og overvintringsreder ved pløjning. Fjernelse af jorddiger. Klimaændringer.",
+      "forvaltning": "Bevar fugtige arealer med tilstødende tørre arealer. Forhindring af tilgroning og dræning. Få veldokumenterede tiltag findes.",
+      "overvaagning": "Vildtkameraer i 4 uger maj-juli eller august-september. Faldfælder og uglegylp-analyser supplerer."
+    },
+    {
+      "id": 39,
+      "danskNavn": "Løvfrø",
+      "latinskNavn": "Hyla arborea",
+      "type": "bilag-iv",
+      "kategori": "padder",
+      "habitat": "Lysåbne ynglevandhuller med rig vegetation. Tilstødende krat, buskads og høj urtevegetation som rasteområder.",
+      "kendetegn": {
+        "voksen": "Lille (3-5 cm) klar grøn frø med klæbeskiver på fingre og tæer. Mørk stribe fra næse til lyske. Eneste danske trælevende padde."
+      },
+      "fysiologi": {
+        "levetid": "Typisk 5-7 år i naturen.",
+        "aktivitet": "Nataktiv. Hannernes høje koraktige kvækken høres på lange afstande i april-juni."
+      },
+      "ynglested": "Solbeskinnede, lavvandede vandhuller med rig undervandsvegetation. Æg lægges i små klumper.",
+      "rastested": "Klatrer ofte op i krat, buskads og urtevegetation. Overvintrer på land i jordhuler eller under sten.",
+      "foede": "Insekter og andre invertebrater. Fanger ofte byttet ved at klatre i vegetationen.",
+      "forvekslingsmuligheder": {
+        "andre_groenne_froer": "Løvfrøens klæbeskiver og lysegrønne farve adskiller den fra grøn frø."
+      },
+      "udbredelse": "Begrænset til Sønderjylland, Lolland-Falster, Bornholm og enkelte steder i Midt- og Nordjylland.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Tilgroning og udskygning af vandhuller. Fisk i ynglesøer. Tab af tilstødende krat og buskads.",
+      "forvaltning": "Etablering og pleje af lysåbne vandhuller. Fjernelse af fisk. Bevarelse af krat og levende hegn omkring vandhuller.",
+      "overvaagning": "Lytning efter kvækkende hanner i april-juni. Visuel optælling, æg- og haletudseregistrering."
+    },
+    {
+      "id": 40,
+      "danskNavn": "Bred Vandkalv",
+      "latinskNavn": "Dytiscus latissimus",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Større, rene, klarvandede søer og moser med rig undervandsvegetation. Sjælden i Danmark.",
+      "kendetegn": {
+        "voksen": "Stor (35-44 mm) ovalformet vandkalv. Mørkebrun til sortlig med karakteristiske gule sidekanter på dækvinger og forkrop. Hannen er glat på dækvingerne, hunnen ofte furet."
+      },
+      "fysiologi": {
+        "levetid": "Voksne 2-3 år. Larver lever i vandet i én sæson.",
+        "aktivitet": "Aktiv hele året, men mest synlig i maj-juli ved parring."
+      },
+      "ynglested": "Æg lægges på vandplanter i maj-juni. Larverne lever af andre vandinsekter.",
+      "rastested": "Lever permanent i vand som voksen. Kan flyve om natten mellem vandhuller.",
+      "foede": "Rovdyr - voksne og larver æder andre vandinsekter, små fisk og haletudser.",
+      "forvekslingsmuligheder": {
+        "andre_vandkalve": "Bred vandkalv adskilles fra almindelig vandkalv (D. marginalis) ved sin bredere krop og gule kantbånd."
+      },
+      "udbredelse": "Sjælden, kendt fra få lokaliteter i Jylland og på Sjælland. Udryddelsestruet.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Tab af rene, klarvandede søer. Eutrofiering. Udsætning af fisk. Tørke.",
+      "forvaltning": "Bevarelse af lysåbne, klarvandede søer uden fisk. Etablering af vandhuller med bred randzone.",
+      "overvaagning": "Eftersøgning med ketsjer eller fælder i potentielle levesteder. eDNA-metoder anvendes også."
+    },
+    {
+      "id": 41,
+      "danskNavn": "Lys Skivevandkalv",
+      "latinskNavn": "Graphoderus bilineatus",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Mesotrofe til let eutrofe søer og moser med rig undervandsvegetation.",
+      "kendetegn": {
+        "voksen": "Mellemstor (14-16 mm) vandkalv. Lys gulbrun grundfarve med to mørke længdestriber på halsskjoldet."
+      },
+      "fysiologi": {
+        "levetid": "Voksne 2-3 år.",
+        "aktivitet": "Mest aktiv om foråret og forsommeren."
+      },
+      "ynglested": "Æg lægges på vandplanter. Larveudvikling i vandet.",
+      "rastested": "Lever permanent i vand. Flyver mellem vandhuller om natten.",
+      "foede": "Rovdyr - lever af andre vandinsekter og deres larver.",
+      "forvekslingsmuligheder": {
+        "andre_skivevandkalve": "De to mørke længdestriber på halsskjoldet er karakteristiske."
+      },
+      "udbredelse": "Spredte forekomster i Danmark, primært i Jylland og på Sjælland.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Tab af mesotrofe søer. Eutrofiering og fiskeudsætning.",
+      "forvaltning": "Bevarelse af mesotrofe søer med rig vegetation. Begrænsning af fiskeudsætning.",
+      "overvaagning": "Fangst med ketsjer eller fælder i potentielle levesteder."
+    },
+    {
+      "id": 42,
+      "danskNavn": "Eremit",
+      "latinskNavn": "Osmoderma eremita",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Gamle, hule løvtræer, særligt eg, bøg og lind, med store hulrum fyldt med smuld.",
+      "kendetegn": {
+        "voksen": "Stor (24-32 mm) sort-brun bille med metallisk skær. Hannen har stærk duft af garvet læder. Larverne er C-formede med rødbrun forkrop."
+      },
+      "fysiologi": {
+        "levetid": "Larvestadie 3-4 år. Voksne lever kun nogle uger.",
+        "aktivitet": "Voksne flyver om dagen i juni-august."
+      },
+      "ynglested": "Æg lægges i smuld inde i hule træer. Larverne udvikles i smulden.",
+      "rastested": "Hele livscyklussen foregår i og omkring værtstræet. Voksne flyver sjældent længere væk.",
+      "foede": "Larverne æder smulden af nedbrudt ved. Voksne æder lidt eller intet.",
+      "forvekslingsmuligheder": {
+        "andre_torbister": "Eremittens duft og levesteder i hule træer er unikke."
+      },
+      "udbredelse": "Sjælden, kendt fra få lokaliteter med gamle træer, primært på Sjælland og Lolland-Falster.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark. Prioriteret art (CR).",
+      "trusler": "Fældning af gamle, hule træer. Fragmentering af bestande. Mangel på rekrutterende træer.",
+      "forvaltning": "Bevarelse af gamle, hule træer. Etablering af 'træhospitaler'. Plantning og pleje af nye veterantræer.",
+      "overvaagning": "Eftersøgning af larvegnav i træsmuld. Fælder med syntetisk feromon. Vildtkameraer ved kendte træer."
+    },
+    {
+      "id": 43,
+      "danskNavn": "Sortplettet Blåfugl",
+      "latinskNavn": "Phengaris arion",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Tørre, varme overdrev med rig forekomst af timian eller merian, og kolonier af myreslægten Myrmica.",
+      "kendetegn": {
+        "voksen": "Sommerfugl med 35-45 mm vingefang. Blå overside med karakteristiske sorte pletter på forvingerne. Underside grålig med pletter."
+      },
+      "fysiologi": {
+        "levetid": "Voksne lever ca. 1-2 uger. Komplet livscyklus 1 år.",
+        "aktivitet": "Voksne flyver juni-august."
+      },
+      "ynglested": "Æg lægges på timian eller merian. Larver passer en parasitisk livscyklus i myrebo.",
+      "rastested": "Larverne lever i myrebo som myremimik og bedrager værtsmyrerne til at fodre dem.",
+      "foede": "Voksne suger nektar. Larver æder først timianblomster, derefter myrelarver i myrebo.",
+      "forvekslingsmuligheder": {
+        "andre_blaafugle": "De karakteristiske store sorte pletter på forvingerne er diagnostiske."
+      },
+      "udbredelse": "Meget sjælden i Danmark. Få lokaliteter, primært på Møn og Sydsjælland.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark. Truet (EN).",
+      "trusler": "Tab af tørre overdrev. Tilgroning. Tab af myrekolonier ved intensiv afgræsning.",
+      "forvaltning": "Ekstensiv afgræsning af overdrev. Bevarelse af åben, varm vegetation med timian og myrekolonier.",
+      "overvaagning": "Visuel optælling af voksne i juli-august. Eftersøgning af æg på timianblomster."
+    },
+    {
+      "id": 44,
+      "danskNavn": "Grøn Mosaikguldsmed",
+      "latinskNavn": "Aeshna viridis",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Næringsrige søer og moser med rig forekomst af krebseklo (Stratiotes aloides).",
+      "kendetegn": {
+        "voksen": "Stor guldsmed (65-75 mm). Grønlig brystkasse med sorte striber. Bagkrop med grønne og blå pletter på sort baggrund."
+      },
+      "fysiologi": {
+        "levetid": "Voksne 1-2 måneder. Larveudvikling 1-2 år.",
+        "aktivitet": "Voksne flyver juli-september."
+      },
+      "ynglested": "Æg lægges udelukkende i krebseklo-blade. Hunnerne kravler ned i bladene for at lægge æg.",
+      "rastested": "Voksne raster på vegetation tæt på vandet.",
+      "foede": "Rovdyr - voksne og larver æder andre insekter.",
+      "forvekslingsmuligheder": {
+        "andre_mosaikguldsmede": "Aeshna viridis er stærkt knyttet til krebseklo - andre Aeshna-arter mindre selektive."
+      },
+      "udbredelse": "Spredte forekomster, primært på Sjælland og i Sønderjylland hvor krebseklo findes.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Tab af krebseklo-bestande. Eutrofiering af vandhuller. Bortfald af lavvandede områder.",
+      "forvaltning": "Bevarelse og udvidelse af krebseklo-bestande. Skabelse af nye levesteder med krebseklo.",
+      "overvaagning": "Visuel optælling af voksne juli-september. Eftersøgning af exuvier (afkastede larvehuder)."
+    },
+    {
+      "id": 45,
+      "danskNavn": "Stor Kærguldsmed",
+      "latinskNavn": "Leucorrhinia pectoralis",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Lavvandede, mesotrofe til oligotrofe søer og moser med rig undervandsvegetation, ofte med tørvemosser.",
+      "kendetegn": {
+        "voksen": "Mellemstor guldsmed (35-40 mm). Sort grundfarve. Hannen har karakteristisk gul plet på 7. bagkropsled. Hvid pande."
+      },
+      "fysiologi": {
+        "levetid": "Voksne 1-2 måneder. Larveudvikling 2-3 år.",
+        "aktivitet": "Voksne flyver maj-juli."
+      },
+      "ynglested": "Æg lægges i lavvandede områder med rig undervandsvegetation.",
+      "rastested": "Voksne raster på vegetation tæt på vandet.",
+      "foede": "Rovdyr - voksne fanger små flyvende insekter.",
+      "forvekslingsmuligheder": {
+        "andre_kaerguldsmede": "Den gule plet på 7. bagkropsled hos hannen er diagnostisk."
+      },
+      "udbredelse": "Spredte forekomster i Danmark, særligt i Jylland.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Eutrofiering af søer. Tørke. Fiskeudsætning.",
+      "forvaltning": "Bevarelse af mesotrofe søer. Begrænsning af fiskeudsætning og næringsstoftilførsel.",
+      "overvaagning": "Visuel optælling af voksne maj-juli. Eftersøgning af exuvier ved bredden."
+    },
+    {
+      "id": 46,
+      "danskNavn": "Grøn Kølleguldsmed",
+      "latinskNavn": "Ophiogomphus cecilia",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Rene, mellemstore til store vandløb med sandet eller gruset bund og god vandkvalitet.",
+      "kendetegn": {
+        "voksen": "Mellemstor til stor guldsmed (50-55 mm). Grøn forkrop og hovedbryst. Sort-gul bagkrop med kølleagtigt udvidet bagende hos hannen."
+      },
+      "fysiologi": {
+        "levetid": "Voksne 1-2 måneder. Larveudvikling 3-4 år i vandløb.",
+        "aktivitet": "Voksne flyver juni-august."
+      },
+      "ynglested": "Æg lægges i rene vandløb. Larverne lever nedgravet i sand- eller grusbund.",
+      "rastested": "Voksne raster på vegetation langs vandløbet.",
+      "foede": "Rovdyr - larver fanger byttet i bundsubstratet, voksne fanger flyvende insekter.",
+      "forvekslingsmuligheder": {
+        "andre_koelleguldsmede": "Den grønne forkrop adskiller den fra andre danske kølleguldsmede."
+      },
+      "udbredelse": "Begrænset til ren vandløb i Jylland, særligt i Karup Å, Skjern Å og Storå.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Forurening af vandløb. Sedimentation. Hård vandløbsregulering.",
+      "forvaltning": "Sikring af god vandkvalitet i vandløb. Reduktion af okker- og sedimentbelastning.",
+      "overvaagning": "Visuel optælling juni-august. Eftersøgning af exuvier ved vandløbsbredden."
+    },
+    {
+      "id": 47,
+      "danskNavn": "Natlyssværmer",
+      "latinskNavn": "Proserpinus proserpina",
+      "type": "bilag-iv",
+      "kategori": "insekt",
+      "habitat": "Fugtige områder med rig forekomst af natlys-arter eller dueurt-arter som værtsplanter.",
+      "kendetegn": {
+        "voksen": "Mellemstor sværmer (40-50 mm vingefang). Olivengrønne forvinger med mørke striber. Bagvinger gulorange med sort kant."
+      },
+      "fysiologi": {
+        "levetid": "Voksne ca. 1-2 uger. Komplet livscyklus 1 år.",
+        "aktivitet": "Voksne flyver i skumringen maj-juli."
+      },
+      "ynglested": "Æg lægges på natlys eller dueurt. Larverne æder bladene.",
+      "rastested": "Larverne forpupper sig i jorden. Voksne raster om dagen i vegetation.",
+      "foede": "Voksne suger nektar. Larver æder natlys og dueurt.",
+      "forvekslingsmuligheder": {
+        "andre_svaermere": "Den olivengrønne farve og karakteristiske bagvinger er diagnostiske."
+      },
+      "udbredelse": "Sjælden i Danmark. Spredte forekomster.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark.",
+      "trusler": "Tab af fugtige områder med værtsplanter. Tilgroning. Pesticidanvendelse.",
+      "forvaltning": "Bevarelse af fugtige overdrev og enge med natlys og dueurt. Ekstensiv pleje.",
+      "overvaagning": "Lyssfælder om natten. Eftersøgning af larver på værtsplanter."
+    },
+    {
+      "id": 48,
+      "danskNavn": "Tykskallet Malermusling",
+      "latinskNavn": "Unio crassus",
+      "type": "bilag-iv",
+      "kategori": "bløddyr",
+      "habitat": "Rene, hurtigtstrømmende vandløb med sand- eller grusbund og god vandkvalitet.",
+      "kendetegn": {
+        "voksen": "Mellemstor ferskvandsmusling (5-9 cm). Tykskallet, mørkebrun til sort skal. Mere kompakt og kortere end almindelig malermusling."
+      },
+      "fysiologi": {
+        "levetid": "Op til 30-50 år. Senkønsmoden ved 3-4 år.",
+        "aktivitet": "Bundlevende. Filtrerer vand for fødepartikler."
+      },
+      "ynglested": "Larverne (glochidier) er parasitter på fiskens gæller (særligt elritse, ørred, smerling) i 3-6 uger før de slipper og bundfælder sig.",
+      "rastested": "Lever nedgravet i bund med blot bagende synlig.",
+      "foede": "Filtrerer fytoplankton, bakterier og organisk materiale fra vandet.",
+      "forvekslingsmuligheder": {
+        "almindelig_malermusling": "Tykskallet malermusling har tykkere skal og mere kompakt form end U. pictorum."
+      },
+      "udbredelse": "Meget sjælden, kendt fra få vandløb i Jylland.",
+      "fredningsstatus": "Bilag IV-art. Beskyttet i hele Danmark. Kritisk truet (CR).",
+      "trusler": "Forurening af vandløb. Sedimentation. Tab af værtsfisk. Hård vandløbsregulering.",
+      "forvaltning": "Sikring af god vandkvalitet og naturlig vandløbsdynamik. Bevarelse af værtsfiskebestande.",
+      "overvaagning": "Eftersøgning på vandløbsbund. eDNA-metoder. Registrering af tomme skaller på bredden."
     }
   ],
   "quizQuestions": [
     {
       "id": 1,
-      "question": "Hvad er kromosomtallet (2n) hos spidssnudet frø?",
-      "correctAnswer": "2n = 24",
+      "question": "Hvilken padde har den TYNDESTE hud og kan optage op til 90% af ilt gennem huden?",
+      "correctAnswer": "Klokkefrø",
       "options": [
-        "2n = 24",
-        "2n = 26",
-        "2n = 22",
-        "2n = 28"
+        "Klokkefrø",
+        "Løgfrø",
+        "Spidssnudet frø",
+        "Stor vandsalamander"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
       "id": 2,
-      "question": "Hvad er kromosomtallet (2n) hos butsnudet frø?",
-      "correctAnswer": "2n = 26",
+      "question": "Hvad er kromosomtallet (2n) hos spidssnudet frø versus butsnudet frø?",
+      "correctAnswer": "Spidssnudet: 2n=24, Butsnudet: 2n=26",
       "options": [
-        "2n = 26",
-        "2n = 24",
-        "2n = 22",
-        "2n = 28"
+        "Spidssnudet: 2n=24, Butsnudet: 2n=26",
+        "Begge har 2n=24",
+        "Spidssnudet: 2n=26, Butsnudet: 2n=24",
+        "Begge har 2n=22"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
       "id": 3,
-      "question": "Hvor stor en del af indertåens længde udgør fodrodsknuden hos spidssnudet frø?",
-      "correctAnswer": "1/2 til 2/3",
+      "question": "Hvordan adskilles fodrodsknuden hos spidssnudet fra butsnudet frø?",
+      "correctAnswer": "Spidssnudet: Høj, sammentrykt, spadeformet (1/2-2/3 af indertåen). Butsnudet: Lav, rund (1/3)",
       "options": [
-        "1/2 til 2/3",
-        "ca. 1/3",
-        "ca. 1/4",
-        "hele indertåen"
+        "Spidssnudet: Høj, sammentrykt, spadeformet (1/2-2/3 af indertåen). Butsnudet: Lav, rund (1/3)",
+        "De er ens",
+        "Butsnudet har størst",
+        "Kun spidssnudet har fodrodsknude"
       ],
       "difficulty": "svær",
       "kategori": "morfologi"
     },
     {
       "id": 4,
-      "question": "Hvor stor en del af indertåens længde udgør fodrodsknuden hos butsnudet frø?",
-      "correctAnswer": "ca. 1/3",
+      "question": "Hvilken lampret har STUMPE tænder og kan derfor IKKE parasitere?",
+      "correctAnswer": "Bæklampret",
       "options": [
-        "ca. 1/3",
-        "1/2 til 2/3",
-        "ca. 1/4",
-        "ca. 1/2"
+        "Bæklampret",
+        "Flodlampret",
+        "Havlampret",
+        "Alle kan parasitere"
       ],
-      "difficulty": "svær",
+      "difficulty": "mellem",
       "kategori": "morfologi"
     },
     {
       "id": 5,
-      "question": "Hvad er det diagnostiske kendetegn på stor vandsalamander-larve vs. lille vandsalamander-larve?",
-      "correctAnswer": "Tydelig mørk stribe på halesømmen",
+      "question": "Hvordan adskilles larver af stor vandsalamander fra lille vandsalamander?",
+      "correctAnswer": "Stor: Tydelig mørk stribe på halesøm, større (6-9 vs 3-4 cm), mere but snude",
       "options": [
-        "Tydelig mørk stribe på halesømmen",
-        "Farven på gællerne",
-        "Antal gællekvaste",
-        "Øjnenes størrelse"
+        "Stor: Tydelig mørk stribe på halesøm, større (6-9 vs 3-4 cm), mere but snude",
+        "Kan ikke adskilles",
+        "Farven alene",
+        "Lille er altid større"
       ],
       "difficulty": "svær",
       "kategori": "artsbestemmelse"
     },
     {
       "id": 6,
-      "question": "Hvad er kromosomtallet hos grønbroget tudse?",
-      "correctAnswer": "4n = 44 (tetraploid)",
+      "question": "Hvilken dansk fisk kan TARMÅNDE (optage ilt gennem tarmen)?",
+      "correctAnswer": "Dyndsmerling",
       "options": [
-        "4n = 44 (tetraploid)",
-        "2n = 22 (diploid)",
-        "2n = 24 (diploid)",
-        "2n = 26 (diploid)"
+        "Dyndsmerling",
+        "Ål",
+        "Karpe",
+        "Aborre"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
       "id": 7,
-      "question": "Hvilken maksimal saltholdighed kan grønbroget tudse tolerere?",
-      "correctAnswer": "op til 5‰",
+      "question": "Hvor store kan løgfrøens haletudser blive?",
+      "correctAnswer": "Op til 10-18 cm - Danmarks største haletudser",
       "options": [
-        "op til 5‰",
-        "op til 15‰",
-        "op til 1‰",
-        "kan ikke tåle salt"
+        "Op til 10-18 cm - Danmarks største haletudser",
+        "3-4 cm som andre",
+        "5-6 cm",
+        "Over 20 cm"
       ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 8,
-      "question": "Hvor lang tid varer bæklamprettes larvestadie typisk?",
-      "correctAnswer": "5-7 år",
-      "options": [
-        "5-7 år",
-        "1-2 år",
-        "3-4 år",
-        "8-10 år"
-      ],
-      "difficulty": "svær",
-      "kategori": "livscyklus"
-    },
-    {
-      "id": 9,
-      "question": "Hvad kendetegner bæklamprettes tænder sammenlignet med flodlamprettes?",
-      "correctAnswer": "Stumpe og kølleformede",
-      "options": [
-        "Stumpe og kølleformede",
-        "Skarpe og spidse",
-        "Krumme og bagudrettede",
-        "Flade og brede"
-      ],
-      "difficulty": "svær",
+      "difficulty": "mellem",
       "kategori": "morfologi"
     },
     {
-      "id": 10,
-      "question": "Hvilken procentdel af ilt kan klokkefrø optage gennem huden?",
-      "correctAnswer": "op til 90%",
+      "id": 8,
+      "question": "Hvordan adskilles laks fra havørred på PLETMØNSTERET?",
+      "correctAnswer": "Laks: Pletter overvejende OVER sidelinjen. Havørred: Pletter BÅDE over og under",
       "options": [
-        "op til 90%",
-        "op til 50%",
-        "op til 70%",
-        "op til 30%"
+        "Laks: Pletter overvejende OVER sidelinjen. Havørred: Pletter BÅDE over og under",
+        "Samme mønster",
+        "Laks har flere pletter",
+        "Kun havørred har pletter"
       ],
-      "difficulty": "svær",
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 9,
+      "question": "Hvad er forskellen på haleroden hos laks og havørred?",
+      "correctAnswer": "Laks: SLANK halerod. Havørred: KRAFTIGERE halerod",
+      "options": [
+        "Laks: SLANK halerod. Havørred: KRAFTIGERE halerod",
+        "De er ens",
+        "Havørred har slankere",
+        "Kan ikke bruges"
+      ],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 10,
+      "question": "Hvad betyder 'semelpar' reproduktion?",
+      "correctAnswer": "Gyder kun én gang og dør derefter (fx lampretter)",
+      "options": [
+        "Gyder kun én gang og dør derefter (fx lampretter)",
+        "Gyder hvert år",
+        "Kan gyde flere gange",
+        "Yngelpleje"
+      ],
+      "difficulty": "mellem",
       "kategori": "fysiologi"
     },
     {
       "id": 11,
-      "question": "Hvor placeret er spiraklet hos klokkefrøens haletudse?",
-      "correctAnswer": "På bugen",
+      "question": "Hvilken fysiologisk tilpasning gør at sandart kan jage i uklart vand?",
+      "correctAnswer": "Tapetum lucidum - reflekterende lag bag retina",
       "options": [
-        "På bugen",
-        "På venstre side",
-        "På højre side",
-        "På ryggen"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 12,
-      "question": "Hvad er den maksimale dokumenterede levetid for ål?",
-      "correctAnswer": "88 år",
-      "options": [
-        "88 år",
-        "45 år",
-        "65 år",
-        "120 år"
+        "Tapetum lucidum - reflekterende lag bag retina",
+        "Ekkolokalisering",
+        "Elektroreceptorer",
+        "Jager kun i klart vand"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
-      "id": 13,
-      "question": "Hvor langt vandrer blankål for at gyde?",
-      "correctAnswer": "over 5000 km",
+      "id": 12,
+      "question": "Hvorfor lugter stalling af timian?",
+      "correctAnswer": "Indeholder stoffet thymol i slimlag og væv",
       "options": [
-        "over 5000 km",
-        "ca. 1000 km",
-        "ca. 2500 km",
-        "ca. 500 km"
+        "Indeholder stoffet thymol i slimlag og væv",
+        "Spiser timianplanter",
+        "Det er en myte",
+        "Kun i yngletiden"
       ],
-      "difficulty": "svær",
-      "kategori": "livscyklus"
+      "difficulty": "mellem",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 13,
+      "question": "Hvilken hudsekretion producerer løgfrø ved håndtering?",
+      "correctAnswer": "Svovlforbindelser der lugter af hvidløg",
+      "options": [
+        "Svovlforbindelser der lugter af hvidløg",
+        "Bufotoxiner",
+        "Tetrodotoxin",
+        "Ingen sekretion"
+      ],
+      "difficulty": "mellem",
+      "kategori": "fysiologi"
     },
     {
       "id": 14,
-      "question": "Hvad hedder det stof der giver stalling sin karakteristiske lugt?",
-      "correctAnswer": "Thymol",
+      "question": "Hvilken salamander har det højeste kromosomtal?",
+      "correctAnswer": "Stor vandsalamander (2n=24 vs lille: 2n=22)",
       "options": [
-        "Thymol",
-        "Limonen",
-        "Mentol",
-        "Eugenol"
+        "Stor vandsalamander (2n=24 vs lille: 2n=22)",
+        "Lille vandsalamander",
+        "Samme kromosomtal",
+        "Varierer individuelt"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
       "id": 15,
-      "question": "Ved hvilken vandtemperatur dør stalling typisk?",
-      "correctAnswer": "over 22-24°C",
+      "question": "Hvad er specielt ved klokkefrøens pupilform?",
+      "correctAnswer": "Hjerteformede pupiller",
       "options": [
-        "over 22-24°C",
-        "over 28-30°C",
-        "over 18-20°C",
-        "over 15-17°C"
+        "Hjerteformede pupiller",
+        "Runde pupiller",
+        "Lodrette pupiller",
+        "Vandrette pupiller"
       ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
+      "difficulty": "mellem",
+      "kategori": "morfologi"
     },
     {
       "id": 16,
-      "question": "Hvad er stor vandsalamanders kromosomtal?",
-      "correctAnswer": "2n = 24",
+      "question": "Hvilken dansk padde producerer de mest potente bufotoxiner?",
+      "correctAnswer": "Skrubtudse - cardioaktive steroider i parotidekirtler",
       "options": [
-        "2n = 24",
-        "2n = 22",
-        "2n = 26",
-        "2n = 20"
+        "Skrubtudse - cardioaktive steroider i parotidekirtler",
+        "Klokkefrø",
+        "Løgfrø",
+        "Stor vandsalamander"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
       "id": 17,
-      "question": "Hvad er lille vandsalamanders kromosomtal?",
-      "correctAnswer": "2n = 22",
+      "question": "Hvad er unikt ved ålens livscyklus?",
+      "correctAnswer": "KATADROM - voksenliv i ferskvand, gyder i Sargassohavet (5000+ km væk)",
       "options": [
-        "2n = 22",
-        "2n = 24",
-        "2n = 26",
-        "2n = 20"
+        "KATADROM - voksenliv i ferskvand, gyder i Sargassohavet (5000+ km væk)",
+        "Anadrom som laks",
+        "Hele livet i ferskvand",
+        "Hele livet i saltvand"
       ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
+      "difficulty": "mellem",
+      "kategori": "livscyklus"
     },
     {
       "id": 18,
-      "question": "Hvilken type giftstof producerer stor vandsalamander?",
-      "correctAnswer": "Tetrodotoxin-lignende alkaloider",
+      "question": "Hvor længe kan en ål leve?",
+      "correctAnswer": "Op til 50-80+ år (rekord 88 år)",
       "options": [
-        "Tetrodotoxin-lignende alkaloider",
-        "Bufotoxiner",
-        "Batrachotoxin",
-        "Samandarin"
+        "Op til 50-80+ år (rekord 88 år)",
+        "5-10 år",
+        "15-20 år",
+        "Max 30 år"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
       "id": 19,
-      "question": "Hvor stor er løgfrøens haletudse maksimalt?",
-      "correctAnswer": "10-18 cm",
+      "question": "Hvad karakteriserer snæblens snude?",
+      "correctAnswer": "LANG, SPIDS snude - helt har STUMP snude",
       "options": [
-        "10-18 cm",
-        "4-6 cm",
-        "6-8 cm",
-        "20-25 cm"
+        "LANG, SPIDS snude - helt har STUMP snude",
+        "Samme snudeform som helt",
+        "Helt har længere snude",
+        "Varierer individuelt"
       ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
     },
     {
       "id": 20,
-      "question": "Hvilken kemisk forbindelse giver løgfrø sin karakteristiske lugt?",
-      "correctAnswer": "Allyl-methyl-sulfid",
+      "question": "Hvor mange skægtråde har dyndsmerling versus pigsmerling?",
+      "correctAnswer": "Dyndsmerling: 10. Pigsmerling: 6",
       "options": [
-        "Allyl-methyl-sulfid",
-        "Hydrogen-sulfid",
-        "Dimethyl-sulfid",
-        "Methyl-mercaptan"
+        "Dyndsmerling: 10. Pigsmerling: 6",
+        "Begge har 6",
+        "Pigsmerling har flest",
+        "Begge har 10"
       ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
+      "difficulty": "mellem",
+      "kategori": "morfologi"
     },
     {
       "id": 21,
-      "question": "Hvor dybt kan løgfrø grave sig ned?",
-      "correctAnswer": "20-100 cm",
+      "question": "Hvilken padde har 'unkenreflex' som forsvar?",
+      "correctAnswer": "Klokkefrø - viser orange-blå bugfarve",
       "options": [
-        "20-100 cm",
-        "5-10 cm",
-        "10-20 cm",
-        "over 150 cm"
+        "Klokkefrø - viser orange-blå bugfarve",
+        "Løgfrø",
+        "Spidssnudet frø",
+        "Alle tudser"
       ],
-      "difficulty": "svær",
+      "difficulty": "let",
       "kategori": "adfærd"
     },
     {
       "id": 22,
-      "question": "Hvad er den maksimale dokumenterede levetid for skrubtudse?",
-      "correctAnswer": "30-40 år",
+      "question": "Hvilken slange er Danmarks eneste med LODRET pupil?",
+      "correctAnswer": "Hugorm",
       "options": [
-        "30-40 år",
-        "10-15 år",
-        "20-25 år",
-        "50-60 år"
+        "Hugorm",
+        "Snog",
+        "Glatsnog",
+        "Alle har lodret pupil"
       ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
+      "difficulty": "let",
+      "kategori": "morfologi"
     },
     {
       "id": 23,
-      "question": "Hvilken type giftstoffer producerer skrubtudse i parotidekirtlerne?",
-      "correctAnswer": "Bufagin og bufotalin",
-      "options": [
-        "Bufagin og bufotalin",
-        "Tetrodotoxin",
-        "Batrachotoxin",
-        "Samandarin"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 24,
-      "question": "Hvor mange gælleåbninger har lampretter på hver side?",
-      "correctAnswer": "7",
-      "options": [
-        "7",
-        "5",
-        "1",
-        "4"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 25,
-      "question": "Hvad kaldes lampretlarven?",
-      "correctAnswer": "Ammocoete",
-      "options": [
-        "Ammocoete",
-        "Leptocephalus",
-        "Elver",
-        "Parr"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 26,
-      "question": "Hvad kaldes ålens larvestadie?",
-      "correctAnswer": "Leptocephalus",
-      "options": [
-        "Leptocephalus",
-        "Ammocoete",
-        "Glasål",
-        "Parr"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 27,
-      "question": "Hvad er snudevinklen hos spidssnudet frø set ovenfra?",
-      "correctAnswer": "ca. 60°",
-      "options": [
-        "ca. 60°",
-        "ca. 90°",
-        "ca. 45°",
-        "ca. 120°"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 28,
-      "question": "Hvad er snudevinklen hos butsnudet frø set ovenfra?",
-      "correctAnswer": "90° eller mere",
-      "options": [
-        "90° eller mere",
-        "ca. 60°",
-        "ca. 45°",
-        "ca. 75°"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 29,
-      "question": "Hvor mange underhår per cm² har odderens pels?",
-      "correctAnswer": "op til 70.000",
-      "options": [
-        "op til 70.000",
-        "op til 20.000",
-        "op til 40.000",
-        "op til 100.000"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 30,
-      "question": "Hvor længe kan odder holde vejret under vand?",
-      "correctAnswer": "6-8 minutter",
-      "options": [
-        "6-8 minutter",
-        "1-2 minutter",
-        "15-20 minutter",
-        "30-45 sekunder"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 31,
-      "question": "Hvad hedder det reflekterende lag i sandartens øjne?",
-      "correctAnswer": "Tapetum lucidum",
-      "options": [
-        "Tapetum lucidum",
-        "Tapetum nigrum",
-        "Retina reflecta",
-        "Choroidea lucida"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 32,
-      "question": "Hvor mange pigge har trepigged hundestejle foran rygfinnen?",
-      "correctAnswer": "3",
-      "options": [
-        "3",
-        "5",
-        "7",
-        "9"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 33,
-      "question": "Hvor mange pigge har nipigget hundestejle foran rygfinnen?",
-      "correctAnswer": "7-12",
-      "options": [
-        "7-12",
-        "3-5",
-        "9-11",
-        "5-7"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 34,
-      "question": "Hvor mange stråler har brasens analfinner?",
-      "correctAnswer": "23-30",
-      "options": [
-        "23-30",
-        "13-18",
-        "10-15",
-        "30-40"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 35,
-      "question": "Hvor mange skægtråde har karpe?",
-      "correctAnswer": "4",
-      "options": [
-        "4",
-        "2",
-        "6",
-        "8"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 36,
-      "question": "Hvor mange skægtråde har dyndsmerling?",
-      "correctAnswer": "10",
-      "options": [
-        "10",
-        "6",
-        "4",
-        "8"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 37,
-      "question": "Hvor mange skægtråde har pigsmerling?",
-      "correctAnswer": "6",
-      "options": [
-        "6",
-        "10",
-        "4",
-        "8"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 38,
-      "question": "Hvilken temperatur er optimal for stor vandsalamanders yngleaktivitet?",
-      "correctAnswer": "10-15°C",
-      "options": [
-        "10-15°C",
-        "15-20°C",
-        "5-10°C",
-        "20-25°C"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 39,
-      "question": "Ved hvilken temperatur går hugorm typisk i dvale?",
-      "correctAnswer": "under 8-10°C",
-      "options": [
-        "under 8-10°C",
-        "under 15°C",
-        "under 5°C",
-        "under 0°C"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 40,
-      "question": "Hvad er markfirbenets foretrukne kropstemperatur?",
-      "correctAnswer": "30-34°C",
-      "options": [
-        "30-34°C",
-        "25-28°C",
-        "35-40°C",
-        "20-25°C"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 41,
-      "question": "Hvornår blev odderen totalfredet i Danmark?",
-      "correctAnswer": "1967",
-      "options": [
-        "1967",
-        "1982",
-        "1950",
-        "1992"
-      ],
-      "difficulty": "svær",
-      "kategori": "bevarelse"
-    },
-    {
-      "id": 42,
-      "question": "Hvor mange æg lægger en stor vandsalamander-hun typisk?",
-      "correctAnswer": "200-400",
-      "options": [
-        "200-400",
-        "50-100",
-        "500-800",
-        "1000-2000"
-      ],
-      "difficulty": "svær",
-      "kategori": "reproduktion"
-    },
-    {
-      "id": 43,
-      "question": "Hvor lang er strandtudsens larveudvikling?",
-      "correctAnswer": "4-6 uger",
-      "options": [
-        "4-6 uger",
-        "8-12 uger",
-        "2-3 måneder",
-        "1-2 uger"
-      ],
-      "difficulty": "svær",
-      "kategori": "livscyklus"
-    },
-    {
-      "id": 44,
-      "question": "Hvilken padde har den korteste larveudvikling i Danmark?",
-      "correctAnswer": "Strandtudse",
-      "options": [
-        "Strandtudse",
-        "Butsnudet frø",
-        "Grønbroget tudse",
-        "Skrubtudse"
-      ],
-      "difficulty": "svær",
-      "kategori": "livscyklus"
-    },
-    {
-      "id": 45,
-      "question": "Hvad er laksens gennemsnitlige ægantal per kg kropsvægt?",
-      "correctAnswer": "1500-2000 æg",
-      "options": [
-        "1500-2000 æg",
-        "500-800 æg",
-        "3000-4000 æg",
-        "5000-8000 æg"
-      ],
-      "difficulty": "svær",
-      "kategori": "reproduktion"
-    },
-    {
-      "id": 46,
-      "question": "Hvor stor procentdel af laks vender tilbage til deres fødested?",
-      "correctAnswer": "op til 95%",
-      "options": [
-        "op til 95%",
-        "ca. 50%",
-        "ca. 75%",
-        "ca. 30%"
-      ],
-      "difficulty": "svær",
-      "kategori": "adfærd"
-    },
-    {
-      "id": 47,
-      "question": "Hvor mange hårde stråler har aborrens forreste rygfinne?",
-      "correctAnswer": "13-17",
-      "options": [
-        "13-17",
-        "8-10",
-        "18-22",
-        "5-7"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 48,
-      "question": "Hvor stor er havlampret maksimalt?",
-      "correctAnswer": "90-100 cm",
-      "options": [
-        "90-100 cm",
-        "40-50 cm",
-        "60-70 cm",
-        "120-150 cm"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 49,
-      "question": "Hvad er springfrøens trommehinde i forhold til øjets størrelse?",
-      "correctAnswer": "Næsten lige så stor som øjet",
-      "options": [
-        "Næsten lige så stor som øjet",
-        "Ca. halvdelen af øjet",
-        "Ca. en tredjedel af øjet",
-        "Større end øjet"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 50,
-      "question": "Hvor langt kan en odders territorium strække sig langs et vandløb?",
-      "correctAnswer": "10-40 km",
-      "options": [
-        "10-40 km",
-        "1-5 km",
-        "50-100 km",
-        "100-200 m"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 51,
-      "question": "Hvilken pH-værdi foretrækker spidssnudet frø til ynglevand?",
-      "correctAnswer": "4,5-7",
-      "options": [
-        "4,5-7",
-        "7-8,5",
-        "6-7,5",
-        "5,5-8"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 52,
-      "question": "Hvilken dybde kræver løgfrø minimum til sine ynglevandhuller?",
-      "correctAnswer": "over 50 cm",
-      "options": [
-        "over 50 cm",
-        "over 20 cm",
-        "over 100 cm",
-        "over 10 cm"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 53,
-      "question": "Hvad er det latinske artsnavn for snæbel?",
-      "correctAnswer": "Coregonus oxyrinchus",
-      "options": [
-        "Coregonus oxyrinchus",
-        "Coregonus lavaretus",
-        "Thymallus thymallus",
-        "Salmo salar"
-      ],
-      "difficulty": "svær",
-      "kategori": "taxonomi"
-    },
-    {
-      "id": 54,
-      "question": "Hvad betyder 'oxyrinchus' i snæblens latinske navn?",
-      "correctAnswer": "Spids snude",
-      "options": [
-        "Spids snude",
-        "Stor mund",
-        "Lang krop",
-        "Blanke skæl"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 55,
-      "question": "Hvor mange år kan dyndsmerling overleve nedgravet i mudder under udtørring?",
-      "correctAnswer": "Flere måneder",
-      "options": [
-        "Flere måneder",
-        "Få dage",
-        "1-2 uger",
-        "Op til et år"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 56,
-      "question": "Hvad kaldes det når padder optager ilt gennem tarmen?",
-      "correctAnswer": "Tarmrespiration",
-      "options": [
-        "Tarmrespiration",
-        "Kutan respiration",
-        "Buccal respiration",
-        "Intestinal ventilation"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 57,
-      "question": "Hvilken frøart har hjerteformede pupiller?",
-      "correctAnswer": "Klokkefrø",
-      "options": [
-        "Klokkefrø",
-        "Løgfrø",
-        "Springfrø",
-        "Butsnudet frø"
-      ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 58,
-      "question": "Hvor mange vandhuller kræver en levedygtig klokkefrø-metapopulation minimum?",
-      "correctAnswer": "10-50+",
-      "options": [
-        "10-50+",
-        "1-3",
-        "3-5",
-        "5-10"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 59,
-      "question": "Hvad er den estimerede tilbagegang for ål siden 1970erne?",
-      "correctAnswer": "90-99%",
-      "options": [
-        "90-99%",
-        "50-60%",
-        "70-80%",
-        "30-40%"
-      ],
-      "difficulty": "svær",
-      "kategori": "bevarelse"
-    },
-    {
-      "id": 60,
-      "question": "Hvilken CITES-kategori er ål placeret i?",
-      "correctAnswer": "Bilag II",
-      "options": [
-        "Bilag II",
-        "Bilag I",
-        "Bilag III",
-        "Ikke på CITES"
-      ],
-      "difficulty": "svær",
-      "kategori": "bevarelse"
-    },
-    {
-      "id": 61,
-      "question": "Hvad er den maksimale acceleration for en jagende gedde?",
-      "correctAnswer": "Op til 4 m/sek",
-      "options": [
-        "Op til 4 m/sek",
-        "Op til 1 m/sek",
-        "Op til 8 m/sek",
-        "Op til 2 m/sek"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 62,
-      "question": "Hvor stor en andel af geddens bytte kan den maksimalt sluge?",
-      "correctAnswer": "Op til 1/3 af egen længde",
-      "options": [
-        "Op til 1/3 af egen længde",
-        "Op til 1/10 af egen længde",
-        "Op til halvdelen af egen længde",
-        "Op til 1/5 af egen længde"
-      ],
-      "difficulty": "svær",
-      "kategori": "adfærd"
-    },
-    {
-      "id": 63,
-      "question": "Hvad er glatsnogens primære føde?",
-      "correctAnswer": "Firben og stålorme",
-      "options": [
-        "Firben og stålorme",
-        "Mus og markmus",
-        "Frøer og tudser",
-        "Fugleæg og unger"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 64,
-      "question": "Hvilken dansk slange er den eneste der kvæler sit bytte?",
+      "question": "Hvilken slange er Danmarks eneste CONSTRICTOR (kvæler bytte)?",
       "correctAnswer": "Glatsnog",
       "options": [
         "Glatsnog",
@@ -1840,376 +1677,961 @@
         "Snog",
         "Ingen danske slanger"
       ],
-      "difficulty": "svær",
+      "difficulty": "mellem",
       "kategori": "adfærd"
     },
     {
-      "id": 65,
-      "question": "Hvor lang er glatsnogen maksimalt?",
-      "correctAnswer": "50-75 cm",
+      "id": 24,
+      "question": "Hvad er specielt ved skovfirbens reproduktion sammenlignet med markfirben?",
+      "correctAnswer": "Skovfirben føder LEVENDE unger - markfirben lægger æg",
       "options": [
-        "50-75 cm",
-        "80-120 cm",
-        "100-150 cm",
-        "30-45 cm"
+        "Skovfirben føder LEVENDE unger - markfirben lægger æg",
+        "Begge lægger æg",
+        "Begge føder levende",
+        "Markfirben føder levende"
       ],
-      "difficulty": "svær",
-      "kategori": "morfologi"
-    },
-    {
-      "id": 66,
-      "question": "Hvad er det diagnostiske kendetegn ved glatsnogs hoved?",
-      "correctAnswer": "Mørk stribe gennem øjet",
-      "options": [
-        "Mørk stribe gennem øjet",
-        "Gule nakkepletter",
-        "Trekantet form",
-        "Lodret pupil"
-      ],
-      "difficulty": "svær",
-      "kategori": "artsbestemmelse"
-    },
-    {
-      "id": 67,
-      "question": "Hvor mange unger føder glatsnog typisk?",
-      "correctAnswer": "3-15",
-      "options": [
-        "3-15",
-        "20-40",
-        "1-3",
-        "40-60"
-      ],
-      "difficulty": "svær",
+      "difficulty": "mellem",
       "kategori": "reproduktion"
     },
     {
-      "id": 68,
-      "question": "Hvornår på året føder glatsnog unger?",
-      "correctAnswer": "August-september",
+      "id": 25,
+      "question": "Hvordan adskilles odder fra mink?",
+      "correctAnswer": "Odder: STØRRE, tyk hale tykkest ved basis, lysere hals. Mink: Mindre, tynd hale, hvid hageplet",
       "options": [
-        "August-september",
-        "Maj-juni",
-        "Marts-april",
-        "Oktober-november"
+        "Odder: STØRRE, tyk hale tykkest ved basis, lysere hals. Mink: Mindre, tynd hale, hvid hageplet",
+        "Kun størrelsen",
+        "Kun farven",
+        "De ligner hinanden"
+      ],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 26,
+      "question": "Hvad er en 'ammocoete'?",
+      "correctAnswer": "Lampretlarve der lever nedgravet og filtrerer føde i 3-8 år",
+      "options": [
+        "Lampretlarve der lever nedgravet og filtrerer føde i 3-8 år",
+        "Voksen ål",
+        "Ferskvandsmuslinge",
+        "Type vandinsekt"
       ],
       "difficulty": "svær",
+      "kategori": "terminologi"
+    },
+    {
+      "id": 27,
+      "question": "Hvilken fisks æg lægges som BÅNDFORMEDE SLØR?",
+      "correctAnswer": "Aborre",
+      "options": [
+        "Aborre",
+        "Gedde",
+        "Skalle",
+        "Laks"
+      ],
+      "difficulty": "mellem",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 28,
+      "question": "Hvad kendetegner geddens jagtmetode?",
+      "correctAnswer": "BAGHOLDSJAEGER - ligger ubevægelig og accelererer eksplosivt",
+      "options": [
+        "BAGHOLDSJAEGER - ligger ubevægelig og accelererer eksplosivt",
+        "Jager aktivt i stimer",
+        "Filtrerer plankton",
+        "Graver efter bytte"
+      ],
+      "difficulty": "let",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 29,
+      "question": "Hvilken fisk har GLASAGTIGE, reflekterende øjne til natjagt?",
+      "correctAnswer": "Sandart",
+      "options": [
+        "Sandart",
+        "Aborre",
+        "Gedde",
+        "Skalle"
+      ],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 30,
+      "question": "Hvordan adskilles trepigged fra nipigget hundestejle?",
+      "correctAnswer": "Trepigged: 3 LANGE pigge, han bliver RØD. Nipigget: 7-12 KORTE pigge, han bliver SORT",
+      "options": [
+        "Trepigged: 3 LANGE pigge, han bliver RØD. Nipigget: 7-12 KORTE pigge, han bliver SORT",
+        "Samme antal pigge",
+        "Nipigget har færre pigge",
+        "Farven er ens"
+      ],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 31,
+      "question": "Hvad producerer stor vandsalamanders hud for giftstoffer?",
+      "correctAnswer": "Tetrodotoxin-lignende alkaloider",
+      "options": [
+        "Tetrodotoxin-lignende alkaloider",
+        "Bufotoxiner",
+        "Ingen giftstoffer",
+        "Cyanidforbindelser"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 32,
+      "question": "Hvilken frø har den TIDLIGSTE ynglesæson i Danmark?",
+      "correctAnswer": "Butsnudet frø (februar-marts)",
+      "options": [
+        "Butsnudet frø (februar-marts)",
+        "Spidssnudet frø",
+        "Løgfrø",
+        "Springfrø"
+      ],
+      "difficulty": "mellem",
       "kategori": "livscyklus"
     },
     {
-      "id": 69,
-      "question": "Hvad er hugormes gifttype primært?",
-      "correctAnswer": "Hæmotoksisk",
+      "id": 33,
+      "question": "Hvilken tilpasning har butsnudet frø til overvintring i vand?",
+      "correctAnswer": "Kan producere glukose som kryoprotektant og tolerere lav ilt",
       "options": [
-        "Hæmotoksisk",
-        "Neurotoksisk",
-        "Cytotoksisk",
-        "Myotoksisk"
+        "Kan producere glukose som kryoprotektant og tolerere lav ilt",
+        "Kan ikke overvintre i vand",
+        "Producerer antifrysepeptider",
+        "Overvintrer kun på land"
       ],
       "difficulty": "svær",
       "kategori": "fysiologi"
     },
     {
-      "id": 70,
-      "question": "Hvor ofte yngler hugormhunner typisk?",
-      "correctAnswer": "Hvert 2-3 år",
+      "id": 34,
+      "question": "Hvad kendetegner stallingens RYGFINNE?",
+      "correctAnswer": "MEGET STOR med rødviolette og grønne farver - unik blandt danske fisk",
       "options": [
-        "Hvert 2-3 år",
-        "Hvert år",
-        "Hvert 4-5 år",
-        "To gange årligt"
+        "MEGET STOR med rødviolette og grønne farver - unik blandt danske fisk",
+        "Lille og farveløs",
+        "Mangler rygfinne",
+        "Ens med andre laksefisk"
       ],
-      "difficulty": "svær",
-      "kategori": "reproduktion"
-    },
-    {
-      "id": 71,
-      "question": "Hvad er snogens primære føde?",
-      "correctAnswer": "Padder",
-      "options": [
-        "Padder",
-        "Mus",
-        "Firben",
-        "Fisk"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 72,
-      "question": "Hvor lægger snog typisk sine æg?",
-      "correctAnswer": "I kompostbunker og møddinger",
-      "options": [
-        "I kompostbunker og møddinger",
-        "I sandet jord",
-        "Under sten",
-        "I vandkanten"
-      ],
-      "difficulty": "svær",
-      "kategori": "reproduktion"
-    },
-    {
-      "id": 73,
-      "question": "Hvad hedder snogens forsvarsadfærd hvor den spiller død?",
-      "correctAnswer": "Thanatosis",
-      "options": [
-        "Thanatosis",
-        "Aposematisme",
-        "Autotomi",
-        "Krypsis"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 74,
-      "question": "Hvor mange æg lægger snog typisk?",
-      "correctAnswer": "10-40",
-      "options": [
-        "10-40",
-        "3-8",
-        "50-100",
-        "1-5"
-      ],
-      "difficulty": "svær",
-      "kategori": "reproduktion"
-    },
-    {
-      "id": 75,
-      "question": "Hvad er stålormen rent zoologisk?",
-      "correctAnswer": "En benløs øgle",
-      "options": [
-        "En benløs øgle",
-        "En slange",
-        "En salamander",
-        "En orm"
-      ],
-      "difficulty": "svær",
-      "kategori": "taxonomi"
-    },
-    {
-      "id": 76,
-      "question": "Hvor stor en del af stålormen udgør halen?",
-      "correctAnswer": "Op til 50%",
-      "options": [
-        "Op til 50%",
-        "Ca. 25%",
-        "Ca. 10%",
-        "Ca. 75%"
-      ],
-      "difficulty": "svær",
+      "difficulty": "let",
       "kategori": "morfologi"
     },
     {
-      "id": 77,
-      "question": "Hvad er stålormen primære føde?",
-      "correctAnswer": "Snegle",
-      "options": [
-        "Snegle",
-        "Insekter",
-        "Plantedele",
-        "Orme"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 78,
-      "question": "Hvad er lakseparrens karakteristiske aftegning?",
-      "correctAnswer": "8-11 mørke tværmærker",
-      "options": [
-        "8-11 mørke tværmærker",
-        "Røde pletter uden tværmærker",
-        "Sølvblank uden tegning",
-        "Ensfarvet brun"
-      ],
-      "difficulty": "svær",
-      "kategori": "artsbestemmelse"
-    },
-    {
-      "id": 79,
-      "question": "Hvor høj kan laks springe over forhindringer?",
-      "correctAnswer": "3-4 meter",
-      "options": [
-        "3-4 meter",
-        "1-2 meter",
-        "5-6 meter",
-        "Under 1 meter"
-      ],
-      "difficulty": "svær",
-      "kategori": "adfærd"
-    },
-    {
-      "id": 80,
-      "question": "Hvad adskiller lakseæg fra ørredæg ved gydeområdet?",
-      "correctAnswer": "Begge dækkes med grus i redd",
-      "options": [
-        "Begge dækkes med grus i redd",
-        "Laks klæber æg til sten",
-        "Ørred graver dybere",
-        "Ingen forskel"
-      ],
-      "difficulty": "svær",
-      "kategori": "reproduktion"
-    },
-    {
-      "id": 81,
-      "question": "Hvad er odderens ekskrementer kaldet?",
-      "correctAnswer": "Spraints",
-      "options": [
-        "Spraints",
-        "Scat",
-        "Droppings",
-        "Fæces"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 82,
-      "question": "Hvilket kendetegn bruges til individuel genkendelse af stor vandsalamander?",
-      "correctAnswer": "Bugmønsteret",
-      "options": [
-        "Bugmønsteret",
-        "Rygtegningen",
-        "Øjenfarven",
-        "Halelængden"
-      ],
-      "difficulty": "svær",
-      "kategori": "metode"
-    },
-    {
-      "id": 83,
-      "question": "Hvad hedder den livsstrategi hvor et dyr kun yngler én gang og derefter dør?",
-      "correctAnswer": "Semelpar",
-      "options": [
-        "Semelpar",
-        "Iteropar",
-        "Monopar",
-        "Polypar"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 84,
-      "question": "Hvad hedder den modsatte livsstrategi hvor et dyr yngler flere gange?",
-      "correctAnswer": "Iteropar",
-      "options": [
-        "Iteropar",
-        "Semelpar",
-        "Multipar",
-        "Polypar"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 85,
-      "question": "Hvilken type livscyklus har ål?",
-      "correctAnswer": "Katadrom",
-      "options": [
-        "Katadrom",
-        "Anadrom",
-        "Potadrom",
-        "Oceanodrom"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 86,
-      "question": "Hvilken type livscyklus har laks?",
-      "correctAnswer": "Anadrom",
-      "options": [
-        "Anadrom",
-        "Katadrom",
-        "Potadrom",
-        "Oceanodrom"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 87,
-      "question": "Hvad kaldes det reflekteringsfænomen hvor klokkefrø viser sin bug?",
-      "correctAnswer": "Unkenreflex",
-      "options": [
-        "Unkenreflex",
-        "Aposematisme",
-        "Deimatisk adfærd",
-        "Startle display"
-      ],
-      "difficulty": "svær",
-      "kategori": "terminologi"
-    },
-    {
-      "id": 88,
-      "question": "Hvad hedder det peptid klokkefrø producerer i huden?",
-      "correctAnswer": "Bombinin",
-      "options": [
-        "Bombinin",
-        "Bufotoxin",
-        "Tetrodotoxin",
-        "Batrachotoxin"
-      ],
-      "difficulty": "svær",
-      "kategori": "fysiologi"
-    },
-    {
-      "id": 89,
-      "question": "Hvilken vandløbszone er karakteriseret ved forekomst af stalling?",
-      "correctAnswer": "Stallingzonen",
-      "options": [
-        "Stallingzonen",
-        "Ørredzone",
-        "Brasenzone",
-        "Laksezonenu"
-      ],
-      "difficulty": "svær",
-      "kategori": "økologi"
-    },
-    {
-      "id": 90,
+      "id": 35,
       "question": "Hvor gyder snæbel i Danmark i dag?",
-      "correctAnswer": "Primært Vidå-systemet",
+      "correctAnswer": "Primært kun i Vidå-systemet",
       "options": [
-        "Primært Vidå-systemet",
-        "Gudenå-systemet",
-        "Skjern Å-systemet",
-        "Alle vestjyske åer"
+        "Primært kun i Vidå-systemet",
+        "Alle vestjyske åer",
+        "Gudenåen",
+        "Gyder ikke længere i DK"
       ],
       "difficulty": "svær",
       "kategori": "udbredelse"
     },
     {
-      "id": 91,
-      "question": "Hvad er mindstemålet for stalling i Danmark?",
-      "correctAnswer": "33 cm",
+      "id": 36,
+      "question": "Hvad er 'spraints'?",
+      "correctAnswer": "Odderens ekskrementer brugt til territoriemarkering",
       "options": [
-        "33 cm",
-        "40 cm",
-        "25 cm",
-        "45 cm"
+        "Odderens ekskrementer brugt til territoriemarkering",
+        "Bæverens dæmninger",
+        "Fiskegydegruber",
+        "Paddernes æg"
+      ],
+      "difficulty": "mellem",
+      "kategori": "terminologi"
+    },
+    {
+      "id": 37,
+      "question": "Hvilken padde har LODRET pupil?",
+      "correctAnswer": "Løgfrø (eneste danske frø)",
+      "options": [
+        "Løgfrø (eneste danske frø)",
+        "Klokkefrø",
+        "Spidssnudet frø",
+        "Alle tudser"
+      ],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 38,
+      "question": "Hvad er forskellen på snogens og hugormens PUPILFORM?",
+      "correctAnswer": "Snog: RUND pupil. Hugorm: LODRET pupil",
+      "options": [
+        "Snog: RUND pupil. Hugorm: LODRET pupil",
+        "Begge har rund pupil",
+        "Begge har lodret pupil",
+        "Snog har lodret"
+      ],
+      "difficulty": "let",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 39,
+      "question": "Hvad er markfirben-hannens karakteristiske farve i yngletiden?",
+      "correctAnswer": "GRØNNE flanker",
+      "options": [
+        "GRØNNE flanker",
+        "Blå",
+        "Rød",
+        "Samme farve hele året"
+      ],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 40,
+      "question": "Hvilken fisk er KRITISK TRUET med 90-99% tilbagegang?",
+      "correctAnswer": "Ål",
+      "options": [
+        "Ål",
+        "Laks",
+        "Aborre",
+        "Gedde"
+      ],
+      "difficulty": "mellem",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 41,
+      "question": "Hvilken tudse er TETRAPLOID (4n = 44)?",
+      "correctAnswer": "Grønbroget tudse",
+      "options": [
+        "Grønbroget tudse",
+        "Strandtudse",
+        "Skrubtudse",
+        "Ingen danske tudser"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 42,
+      "question": "Hvilken tudse kan tolerere BRAKVAND op til 5‰?",
+      "correctAnswer": "Grønbroget tudse",
+      "options": [
+        "Grønbroget tudse",
+        "Strandtudse",
+        "Skrubtudse",
+        "Ingen danske tudser"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 43,
+      "question": "Hvilken tudse LØBER i stedet for at hoppe?",
+      "correctAnswer": "Strandtudse",
+      "options": [
+        "Strandtudse",
+        "Grønbroget tudse",
+        "Skrubtudse",
+        "Alle tudser hopper"
+      ],
+      "difficulty": "let",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 44,
+      "question": "Hvor lang kan skrubtudse blive?",
+      "correctAnswer": "Op til 30-40 år",
+      "options": [
+        "Op til 30-40 år",
+        "5-10 år",
+        "15 år max",
+        "Over 50 år"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 45,
+      "question": "Hvad er springfrøens unikke æglægningsstrategi?",
+      "correctAnswer": "Lægger æg på grene og plantestængler UNDER vand",
+      "options": [
+        "Lægger æg på grene og plantestængler UNDER vand",
+        "Store klumper ved overfladen",
+        "Æg i snore som tudser",
+        "Æg enkeltvis som salamandre"
+      ],
+      "difficulty": "svær",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 46,
+      "question": "Hvilken fisk bygger STENREDE til gydning?",
+      "correctAnswer": "Havlampret",
+      "options": [
+        "Havlampret",
+        "Laks",
+        "Gedde",
+        "Aborre"
+      ],
+      "difficulty": "svær",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 47,
+      "question": "Hvor mange skægtråde har karpe?",
+      "correctAnswer": "4 skægtråde",
+      "options": [
+        "4 skægtråde",
+        "2 skægtråde",
+        "6 skægtråde",
+        "Ingen skægtråde"
+      ],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 48,
+      "question": "Hvad er Danmarks største ferskvandsfisk?",
+      "correctAnswer": "Gedde (op til 140 cm, 30+ kg)",
+      "options": [
+        "Gedde (op til 140 cm, 30+ kg)",
+        "Karpe",
+        "Sandart",
+        "Laks"
+      ],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 49,
+      "question": "Hvilken lampret er STØRST?",
+      "correctAnswer": "Havlampret (op til 100 cm)",
+      "options": [
+        "Havlampret (op til 100 cm)",
+        "Flodlampret",
+        "Bæklampret",
+        "De er lige store"
+      ],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 50,
+      "question": "Hvad er specielt ved klokkefrøens haletudser?",
+      "correctAnswer": "Spiraklet sidder på BUGEN og de kan OVERVINTRE i vand",
+      "options": [
+        "Spiraklet sidder på BUGEN og de kan OVERVINTRE i vand",
+        "De er de største",
+        "De er giftige",
+        "De kan ikke svømme"
+      ],
+      "difficulty": "svær",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 101,
+      "question": "Hvor langt fra vandkanten bevæger en bæver sig typisk på land?",
+      "correctAnswer": "Op til 50 meter",
+      "options": [
+        "Op til 50 meter",
+        "Op til 200 meter",
+        "Op til 500 meter",
+        "Op til 1 km"
+      ],
+      "difficulty": "mellem",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 102,
+      "question": "Hvor stor er den årlige tilvækst i den jyske bæverbestand?",
+      "correctAnswer": "7-10%",
+      "options": [
+        "7-10%",
+        "1-3%",
+        "15-20%",
+        "25-30%"
       ],
       "difficulty": "svær",
       "kategori": "bevarelse"
     },
     {
-      "id": 92,
-      "question": "Hvornår er stalling fredet i Danmark?",
-      "correctAnswer": "15. marts - 15. maj",
+      "id": 103,
+      "question": "Hvor mange unger får en bæverfamilie typisk på de nordlige breddegrader?",
+      "correctAnswer": "Op til 5",
       "options": [
-        "15. marts - 15. maj",
-        "1. januar - 31. marts",
-        "1. oktober - 31. december",
-        "1. juni - 31. august"
+        "Op til 5",
+        "Op til 2",
+        "Op til 10",
+        "Op til 15"
+      ],
+      "difficulty": "mellem",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 104,
+      "question": "Hvor langt kan en ung bæver maksimalt sprede sig fra sit oprindelige territorie?",
+      "correctAnswer": "Op til 85 km",
+      "options": [
+        "Op til 85 km",
+        "Op til 25 km",
+        "Op til 150 km",
+        "Op til 250 km"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 105,
+      "question": "Hvor blev bæveren udsat i Danmark i 1999?",
+      "correctAnswer": "Nordvestjylland",
+      "options": [
+        "Nordvestjylland",
+        "Nordsjælland",
+        "Sydfyn",
+        "Bornholm"
+      ],
+      "difficulty": "mellem",
+      "kategori": "udbredelse"
+    },
+    {
+      "id": 106,
+      "question": "Hvad er den typiske populationstæthed for hasselmus?",
+      "correctAnswer": "1-2 individer pr. ha",
+      "options": [
+        "1-2 individer pr. ha",
+        "5-10 individer pr. ha",
+        "10-20 individer pr. ha",
+        "20-40 individer pr. ha"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 107,
+      "question": "Hvor langt kan hasselmusen krydse i åbent terræn?",
+      "correctAnswer": "Op til 100 m",
+      "options": [
+        "Op til 100 m",
+        "Op til 25 m",
+        "Op til 300 m",
+        "Op til 500 m"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 108,
+      "question": "Hvornår er hasselmusen i vinterdvale?",
+      "correctAnswer": "Oktober til april-maj",
+      "options": [
+        "Oktober til april-maj",
+        "December til februar",
+        "September til marts",
+        "November til april"
+      ],
+      "difficulty": "mellem",
+      "kategori": "livscyklus"
+    },
+    {
+      "id": 109,
+      "question": "Hvilke arter bliver særligt selekteret af hasselmus i Danmark?",
+      "correctAnswer": "Bøg, brombær, hyld, hassel, røn, pil",
+      "options": [
+        "Bøg, brombær, hyld, hassel, røn, pil",
+        "Eg, birk, gran, fyr, ahorn, lind",
+        "Æble, kirsebær, blomme, pære, mirabel, slåen",
+        "Hyld, hassel, eg, ask, elm, lærk"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 110,
+      "question": "Hvornår blev hasselmusen sidst observeret i Jylland?",
+      "correctAnswer": "2011",
+      "options": [
+        "2011",
+        "2005",
+        "2017",
+        "2021"
+      ],
+      "difficulty": "svær",
+      "kategori": "udbredelse"
+    },
+    {
+      "id": 111,
+      "question": "Hvad vejer en birkemus typisk?",
+      "correctAnswer": "5-16 g",
+      "options": [
+        "5-16 g",
+        "20-30 g",
+        "40-60 g",
+        "1-3 g"
+      ],
+      "difficulty": "svær",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 112,
+      "question": "Hvad er birkemusens karakteristiske kendetegn?",
+      "correctAnswer": "Sort rygstribe og lang hale",
+      "options": [
+        "Sort rygstribe og lang hale",
+        "Hvid bug og kort hale",
+        "Rødbrun pels uden striber",
+        "Sorte ører og kort krop"
+      ],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 113,
+      "question": "Hvor dybt graver birkemusen sit overvintringskvarter?",
+      "correctAnswer": "20-40 cm",
+      "options": [
+        "20-40 cm",
+        "5-10 cm",
+        "60-100 cm",
+        "150-200 cm"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 114,
+      "question": "Hvor mange kuld får birkemusen pr. år?",
+      "correctAnswer": "1 kuld",
+      "options": [
+        "1 kuld",
+        "2 kuld",
+        "3-4 kuld",
+        "5-6 kuld"
+      ],
+      "difficulty": "mellem",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 115,
+      "question": "Hvilken metode er nu mest anvendt til NOVANA-overvågning af birkemus?",
+      "correctAnswer": "Vildtkameraer",
+      "options": [
+        "Vildtkameraer",
+        "Faldfælder",
+        "Levendefangst",
+        "Sporsøgning"
       ],
       "difficulty": "svær",
       "kategori": "bevarelse"
     },
     {
-      "id": 93,
-      "question": "Hvilken rødlistekategori har snæbel?",
+      "id": 116,
+      "question": "Hvad er unikt ved løvfrøens fødder?",
+      "correctAnswer": "Klæbeskiver til klatring",
+      "options": [
+        "Klæbeskiver til klatring",
+        "Svømmehud mellem alle tæer",
+        "Lange kløer",
+        "Hove som ged"
+      ],
+      "difficulty": "mellem",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 117,
+      "question": "Hvilken farve har løvfrøen typisk?",
+      "correctAnswer": "Klar grøn",
+      "options": [
+        "Klar grøn",
+        "Mørkebrun",
+        "Gul med pletter",
+        "Sort"
+      ],
+      "difficulty": "let",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 118,
+      "question": "I hvilke landsdele findes løvfrøen primært i Danmark?",
+      "correctAnswer": "Sønderjylland, Lolland-Falster, Bornholm",
+      "options": [
+        "Sønderjylland, Lolland-Falster, Bornholm",
+        "Hele Jylland",
+        "Sjælland og Fyn",
+        "Nordjylland og Bornholm"
+      ],
+      "difficulty": "svær",
+      "kategori": "udbredelse"
+    },
+    {
+      "id": 119,
+      "question": "Hvor mange procent af markfirbens forekomster er forsvundet siden 1945?",
+      "correctAnswer": "Ca. 30%",
+      "options": [
+        "Ca. 30%",
+        "Ca. 10%",
+        "Ca. 50%",
+        "Ca. 75%"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 120,
+      "question": "Hvor langt kan markfirben kolonisere nye yngleområder?",
+      "correctAnswer": "100-200 m",
+      "options": [
+        "100-200 m",
+        "10-20 m",
+        "500-1000 m",
+        "2-5 km"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 121,
+      "question": "Hvor mange dyr er der typisk pr. ha på gode markfirben-levesteder?",
+      "correctAnswer": "30-70 voksne",
+      "options": [
+        "30-70 voksne",
+        "5-10 voksne",
+        "100-200 voksne",
+        "1-2 voksne"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 122,
+      "question": "Hvor mange æg kan en markfirben-hun lægge?",
+      "correctAnswer": "4-15 æg",
+      "options": [
+        "4-15 æg",
+        "20-30 æg",
+        "50-100 æg",
+        "1-3 æg"
+      ],
+      "difficulty": "mellem",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 123,
+      "question": "Hvor mange procent skygge må der højst være på et markfirben-yngleområde?",
+      "correctAnswer": "Helt lysåbent",
+      "options": [
+        "Helt lysåbent",
+        "Op til 30% skygge",
+        "Op til 50% skygge",
+        "Skygge er irrelevant"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 124,
+      "question": "Hvor stor er den samlede danske klokkefrøbestand?",
+      "correctAnswer": "Ca. 3.000 voksne dyr",
+      "options": [
+        "Ca. 3.000 voksne dyr",
+        "Ca. 500 voksne dyr",
+        "Ca. 10.000 voksne dyr",
+        "Ca. 30.000 voksne dyr"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 125,
+      "question": "Hvor mange æg lægger en klokkefrø-hun i gennemsnit pr. sæson?",
+      "correctAnswer": "Ca. 450",
+      "options": [
+        "Ca. 450",
+        "Ca. 100",
+        "Ca. 1500",
+        "Ca. 5000"
+      ],
+      "difficulty": "svær",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 126,
+      "question": "Hvor stort areal velegnet vandhulshabitat behøver en voksen klokkefrø?",
+      "correctAnswer": "20-40 m²",
+      "options": [
+        "20-40 m²",
+        "5-10 m²",
+        "100-200 m²",
+        "500-1000 m²"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 127,
+      "question": "Hvor mange oprindelige danske klokkefrøbestande har overlevet?",
+      "correctAnswer": "6",
+      "options": [
+        "6",
+        "2",
+        "12",
+        "20"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 128,
+      "question": "Hvilken type afgræsning er bedst for klokkefrø-levesteder?",
+      "correctAnswer": "Kvæg",
+      "options": [
+        "Kvæg",
+        "Får",
+        "Heste",
+        "Geder"
+      ],
+      "difficulty": "mellem",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 129,
+      "question": "Hvor langt vandrer klokkefrø typisk mellem vandhuller?",
+      "correctAnswer": "Få hundrede meter",
+      "options": [
+        "Få hundrede meter",
+        "Op til 5 km",
+        "Under 50 meter",
+        "10-20 km"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 130,
+      "question": "Hvor mange procent af stor vandsalamanders levesteder forsvandt fra 1940'erne til 1980'erne?",
+      "correctAnswer": "Ca. 55%",
+      "options": [
+        "Ca. 55%",
+        "Ca. 25%",
+        "Ca. 75%",
+        "Ca. 10%"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 131,
+      "question": "Hvor langt fra ynglestedet opholder 50% af stor vandsalamander sig?",
+      "correctAnswer": "Inden for 15 m",
+      "options": [
+        "Inden for 15 m",
+        "Inden for 100 m",
+        "Inden for 500 m",
+        "Inden for 1 km"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 132,
+      "question": "Hvor mange æg producerer en stor vandsalamander-hun pr. sæson?",
+      "correctAnswer": "200-400",
+      "options": [
+        "200-400",
+        "50-100",
+        "1000-2000",
+        "5000-10000"
+      ],
+      "difficulty": "svær",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 133,
+      "question": "Hvor langt kan stor vandsalamander maksimalt vandre fra ynglestedet?",
+      "correctAnswer": "Op til 1 km",
+      "options": [
+        "Op til 1 km",
+        "Op til 100 m",
+        "Op til 5 km",
+        "Op til 10 km"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 134,
+      "question": "Hvor høj overlevelsesrate har stor vandsalamander typisk fra æg til juvenil?",
+      "correctAnswer": "Ca. 3,6%",
+      "options": [
+        "Ca. 3,6%",
+        "Ca. 30%",
+        "Ca. 60%",
+        "Ca. 90%"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 135,
+      "question": "Hvilken metode er anvendt til DNA-baseret eftersøgning af stor vandsalamander?",
+      "correctAnswer": "eDNA fra vandprøver",
+      "options": [
+        "eDNA fra vandprøver",
+        "Hudpodning",
+        "Blodprøver",
+        "Hårpodning"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 136,
+      "question": "Hvor mange procent af løgfrøens levesteder forsvandt 1945-1990?",
+      "correctAnswer": "Ca. 97%",
+      "options": [
+        "Ca. 97%",
+        "Ca. 50%",
+        "Ca. 25%",
+        "Ca. 75%"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 137,
+      "question": "Hvor lang er en løgfrø-haletudse typisk inden forvandling?",
+      "correctAnswer": "10-14 cm",
+      "options": [
+        "10-14 cm",
+        "3-5 cm",
+        "20-25 cm",
+        "1-2 cm"
+      ],
+      "difficulty": "svær",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 138,
+      "question": "Hvor dybt graver løgfrøen sig ned om vinteren?",
+      "correctAnswer": "0,6-1,5 m",
+      "options": [
+        "0,6-1,5 m",
+        "5-10 cm",
+        "10-30 cm",
+        "2-3 m"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 139,
+      "question": "Hvor langt fra ynglestedet skal løgfrøens rasteområde ligge?",
+      "correctAnswer": "Mindre end 300 m",
+      "options": [
+        "Mindre end 300 m",
+        "Mindre end 50 m",
+        "Mindre end 1 km",
+        "Mindre end 5 km"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 140,
+      "question": "Hvor mange æg kan en løgfrø-ægpølse indeholde?",
+      "correctAnswer": "250-3400",
+      "options": [
+        "250-3400",
+        "10-50",
+        "100-200",
+        "5000-10000"
+      ],
+      "difficulty": "svær",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 141,
+      "question": "Hvor stor er en voksen bred vandkalv?",
+      "correctAnswer": "35-44 mm",
+      "options": [
+        "35-44 mm",
+        "10-15 mm",
+        "60-80 mm",
+        "5-8 mm"
+      ],
+      "difficulty": "svær",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 142,
+      "question": "Hvad er bred vandkalvs primære fødetype?",
+      "correctAnswer": "Andre vandinsekter og smådyr",
+      "options": [
+        "Andre vandinsekter og smådyr",
+        "Vandplanter",
+        "Plankton",
+        "Detritus"
+      ],
+      "difficulty": "mellem",
+      "kategori": "økologi"
+    },
+    {
+      "id": 143,
+      "question": "Hvad kendetegner bred vandkalv?",
+      "correctAnswer": "Gule sidekanter på dækvinger",
+      "options": [
+        "Gule sidekanter på dækvinger",
+        "Røde pletter på ryggen",
+        "Helt sort krop",
+        "Gennemsigtige vinger"
+      ],
+      "difficulty": "svær",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 144,
+      "question": "Hvad lugter eremittens han af?",
+      "correctAnswer": "Garvet læder",
+      "options": [
+        "Garvet læder",
+        "Citron",
+        "Kanel",
+        "Mango"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 145,
+      "question": "Hvor lang er eremittens larvestadie?",
+      "correctAnswer": "3-4 år",
+      "options": [
+        "3-4 år",
+        "1 år",
+        "8-10 år",
+        "15-20 år"
+      ],
+      "difficulty": "svær",
+      "kategori": "livscyklus"
+    },
+    {
+      "id": 146,
+      "question": "I hvilke træer lever eremitten typisk?",
+      "correctAnswer": "Gamle, hule løvtræer",
+      "options": [
+        "Gamle, hule løvtræer",
+        "Unge nåletræer",
+        "Døde træstubbe",
+        "Levende grangrene"
+      ],
+      "difficulty": "mellem",
+      "kategori": "økologi"
+    },
+    {
+      "id": 147,
+      "question": "Hvilken rødlistekategori har eremitten i Danmark?",
       "correctAnswer": "Kritisk truet (CR)",
       "options": [
         "Kritisk truet (CR)",
@@ -2221,12 +2643,155 @@
       "kategori": "bevarelse"
     },
     {
-      "id": 94,
-      "question": "Hvilken rødlistekategori har klokkefrø?",
-      "correctAnswer": "Truet (EN)",
+      "id": 148,
+      "question": "Hvilket pattedyr er sortplettet blåfugls larver afhængige af?",
+      "correctAnswer": "Myrer (Myrmica)",
       "options": [
-        "Truet (EN)",
+        "Myrer (Myrmica)",
+        "Mosegris",
+        "Markmus",
+        "Spidsmus"
+      ],
+      "difficulty": "svær",
+      "kategori": "økologi"
+    },
+    {
+      "id": 149,
+      "question": "Hvilke planter lægger sortplettet blåfugl æg på?",
+      "correctAnswer": "Timian eller merian",
+      "options": [
+        "Timian eller merian",
+        "Brændenælde",
+        "Kløver",
+        "Lyng"
+      ],
+      "difficulty": "svær",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 150,
+      "question": "Hvor lever sortplettet blåfugls larver hovedparten af deres tid?",
+      "correctAnswer": "I myrebo",
+      "options": [
+        "I myrebo",
+        "På timianblade",
+        "I jorden",
+        "I tussiblomster"
+      ],
+      "difficulty": "svær",
+      "kategori": "adfærd"
+    },
+    {
+      "id": 151,
+      "question": "Hvilken vandplante er grøn mosaikguldsmed afhængig af for æglægning?",
+      "correctAnswer": "Krebseklo",
+      "options": [
+        "Krebseklo",
+        "Åkander",
+        "Tagrør",
+        "Vandranunkel"
+      ],
+      "difficulty": "svær",
+      "kategori": "økologi"
+    },
+    {
+      "id": 152,
+      "question": "Hvor lægger grøn mosaikguldsmed sine æg?",
+      "correctAnswer": "I krebseklo-blade",
+      "options": [
+        "I krebseklo-blade",
+        "På sten",
+        "På rødder",
+        "Frit i vandet"
+      ],
+      "difficulty": "svær",
+      "kategori": "reproduktion"
+    },
+    {
+      "id": 153,
+      "question": "Hvor stor er grøn mosaikguldsmed?",
+      "correctAnswer": "65-75 mm",
+      "options": [
+        "65-75 mm",
+        "20-30 mm",
+        "100-120 mm",
+        "10-15 mm"
+      ],
+      "difficulty": "svær",
+      "kategori": "morfologi"
+    },
+    {
+      "id": 154,
+      "question": "I hvilken type vandløb yngler grøn kølleguldsmed?",
+      "correctAnswer": "Rene vandløb med sand- eller grusbund",
+      "options": [
+        "Rene vandløb med sand- eller grusbund",
+        "Stillestående søer",
+        "Brakvandsmoser",
+        "Højmoser"
+      ],
+      "difficulty": "svær",
+      "kategori": "økologi"
+    },
+    {
+      "id": 155,
+      "question": "Hvor lang er grøn kølleguldsmeds larveudvikling?",
+      "correctAnswer": "3-4 år",
+      "options": [
+        "3-4 år",
+        "Få måneder",
+        "1 år",
+        "10 år"
+      ],
+      "difficulty": "svær",
+      "kategori": "livscyklus"
+    },
+    {
+      "id": 156,
+      "question": "I hvilke jyske åer findes grøn kølleguldsmed primært?",
+      "correctAnswer": "Karup, Skjern og Storå",
+      "options": [
+        "Karup, Skjern og Storå",
+        "Mølleå og Suså",
+        "Vidå og Brede Å",
+        "Gudenå og Lilleå"
+      ],
+      "difficulty": "svær",
+      "kategori": "udbredelse"
+    },
+    {
+      "id": 157,
+      "question": "Hvor gammel kan tykskallet malermusling blive?",
+      "correctAnswer": "30-50 år",
+      "options": [
+        "30-50 år",
+        "5-10 år",
+        "100-150 år",
+        "1-2 år"
+      ],
+      "difficulty": "svær",
+      "kategori": "fysiologi"
+    },
+    {
+      "id": 158,
+      "question": "Hvor lever tykskallet malermuslings larver?",
+      "correctAnswer": "På fiskens gæller",
+      "options": [
+        "På fiskens gæller",
+        "I sand",
+        "På vandplanter",
+        "Frit i vandet"
+      ],
+      "difficulty": "svær",
+      "kategori": "livscyklus"
+    },
+    {
+      "id": 159,
+      "question": "Hvilken rødlistekategori har tykskallet malermusling?",
+      "correctAnswer": "Kritisk truet (CR)",
+      "options": [
         "Kritisk truet (CR)",
+        "Truet (EN)",
         "Sårbar (VU)",
         "Livskraftig (LC)"
       ],
@@ -2234,82 +2799,277 @@
       "kategori": "bevarelse"
     },
     {
-      "id": 95,
-      "question": "Hvad er Danmarks nordligste forekomst af grønbroget tudse primært?",
-      "correctAnswer": "Sydsjælland, Lolland-Falster, Bornholm",
+      "id": 160,
+      "question": "Hvilken farve plet har hannen af stor kærguldsmed på 7. bagkropsled?",
+      "correctAnswer": "Gul",
       "options": [
-        "Sydsjælland, Lolland-Falster, Bornholm",
-        "Nordjylland",
-        "Fyn",
-        "Hele Danmark"
+        "Gul",
+        "Rød",
+        "Hvid",
+        "Blå"
       ],
       "difficulty": "svær",
-      "kategori": "udbredelse"
+      "kategori": "artsbestemmelse"
     },
     {
-      "id": 96,
-      "question": "Hvilken biotoptype foretrækker markfirben?",
-      "correctAnswer": "Tørre, sandede heder og klitter",
+      "id": 161,
+      "question": "Hvilken type søer foretrækker stor kærguldsmed?",
+      "correctAnswer": "Mesotrofe til oligotrofe søer",
       "options": [
-        "Tørre, sandede heder og klitter",
-        "Fugtige enge og moser",
-        "Løvskove med høj fugtighed",
-        "Vandkanter og søbredder"
+        "Mesotrofe til oligotrofe søer",
+        "Eutrofe søer",
+        "Brakvandssøer",
+        "Saltvandsøer"
       ],
       "difficulty": "svær",
       "kategori": "økologi"
     },
     {
-      "id": 97,
-      "question": "Hvor på kroppen sidder pigsmerlingens karakteristiske torn?",
-      "correctAnswer": "Under øjet",
+      "id": 162,
+      "question": "Hvad kendetegner lys skivevandkalvs halsskjold?",
+      "correctAnswer": "To mørke længdestriber",
       "options": [
-        "Under øjet",
-        "På gællelåget",
-        "På rygfinnen",
-        "Ved halefinnen"
+        "To mørke længdestriber",
+        "Røde pletter",
+        "Hvid kant",
+        "Helt sort"
+      ],
+      "difficulty": "svær",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 163,
+      "question": "Hvor stor er lys skivevandkalv?",
+      "correctAnswer": "14-16 mm",
+      "options": [
+        "14-16 mm",
+        "5-7 mm",
+        "30-40 mm",
+        "60-80 mm"
       ],
       "difficulty": "svær",
       "kategori": "morfologi"
     },
     {
-      "id": 98,
-      "question": "Hvad kaldes hannen hos trepigget hundestejles sekret til redebygning?",
-      "correctAnswer": "Spiggin",
+      "id": 164,
+      "question": "Hvilke planter æder natlyssværmerens larver?",
+      "correctAnswer": "Natlys og dueurt",
       "options": [
-        "Spiggin",
-        "Mucin",
-        "Keratin",
-        "Fibrin"
+        "Natlys og dueurt",
+        "Brændenælde",
+        "Hyld og slåen",
+        "Lyng og krat"
       ],
       "difficulty": "svær",
-      "kategori": "fysiologi"
+      "kategori": "økologi"
     },
     {
-      "id": 99,
-      "question": "Hvilken farve får trepigged hundestejle-hannen i yngletiden?",
-      "correctAnswer": "Rød strube og bug",
+      "id": 165,
+      "question": "Hvornår flyver natlyssværmeren?",
+      "correctAnswer": "I skumringen maj-juli",
       "options": [
-        "Rød strube og bug",
-        "Blå sider",
-        "Sort ryg",
-        "Gul hale"
+        "I skumringen maj-juli",
+        "Midt om dagen",
+        "Kun om vinteren",
+        "Hele døgnet"
       ],
       "difficulty": "svær",
-      "kategori": "morfologi"
+      "kategori": "adfærd"
     },
     {
-      "id": 100,
-      "question": "Hvilken farve får nipigget hundestejle-hannen i yngletiden?",
-      "correctAnswer": "Sort strube",
+      "id": 166,
+      "question": "Hvad regulerer Habitatdirektivets bilag IV?",
+      "correctAnswer": "Beskyttelse af strengt beskyttede arter",
       "options": [
-        "Sort strube",
-        "Rød bug",
-        "Blå sider",
-        "Grøn ryg"
+        "Beskyttelse af strengt beskyttede arter",
+        "Naturtyper",
+        "Fuglebeskyttelse",
+        "Marine reservater"
       ],
       "difficulty": "svær",
-      "kategori": "morfologi"
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 167,
+      "question": "Hvilken bekendtgørelse fastsætter beskyttelse af bilag IV-arter i Danmark?",
+      "correctAnswer": "Bekendtgørelse nr. 2091 af 12/11/2021",
+      "options": [
+        "Bekendtgørelse nr. 2091 af 12/11/2021",
+        "Naturbeskyttelsesloven §3",
+        "Skovloven §28",
+        "Vildtloven §7"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 168,
+      "question": "Hvor lang er forvaltningsplanperioden for de fleste bilag IV-arter?",
+      "correctAnswer": "Permanent beskyttelse",
+      "options": [
+        "Permanent beskyttelse",
+        "5 år",
+        "10 år",
+        "20 år"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 169,
+      "question": "Hvilken faglig institution overvåger bilag IV-arter i Danmark?",
+      "correctAnswer": "DCE - Aarhus Universitet",
+      "options": [
+        "DCE - Aarhus Universitet",
+        "GEUS",
+        "DTU Aqua",
+        "DMI"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 170,
+      "question": "Hvad hedder det danske overvågningsprogram for natur?",
+      "correctAnswer": "NOVANA",
+      "options": [
+        "NOVANA",
+        "DANUVA",
+        "DANARK",
+        "NATURA"
+      ],
+      "difficulty": "mellem",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 171,
+      "question": "Hvilket størrelse-kvadrat anvendes typisk i NOVANA-overvågning?",
+      "correctAnswer": "10x10 km",
+      "options": [
+        "10x10 km",
+        "1x1 km",
+        "100x100 km",
+        "5x5 km"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 172,
+      "question": "Hvad betyder 'gunstig bevaringsstatus' for en art?",
+      "correctAnswer": "Bestand kan opretholdes på lang sigt",
+      "options": [
+        "Bestand kan opretholdes på lang sigt",
+        "Arten er fredet",
+        "Arten er almindelig",
+        "Arten har god vejr"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 173,
+      "question": "Hvilken art er den eneste klatrende padde i Danmark?",
+      "correctAnswer": "Løvfrø",
+      "options": [
+        "Løvfrø",
+        "Klokkefrø",
+        "Springfrø",
+        "Skrubtudse"
+      ],
+      "difficulty": "mellem",
+      "kategori": "artsbestemmelse"
+    },
+    {
+      "id": 174,
+      "question": "Hvilken bilag IV-art er stærkt afhængig af krebseklo som vandplante?",
+      "correctAnswer": "Grøn mosaikguldsmed",
+      "options": [
+        "Grøn mosaikguldsmed",
+        "Stor kærguldsmed",
+        "Bred vandkalv",
+        "Eremit"
+      ],
+      "difficulty": "svær",
+      "kategori": "økologi"
+    },
+    {
+      "id": 175,
+      "question": "Hvilken bilag IV-art er stærkt afhængig af myrekolonier?",
+      "correctAnswer": "Sortplettet blåfugl",
+      "options": [
+        "Sortplettet blåfugl",
+        "Eremit",
+        "Natlyssværmer",
+        "Grøn mosaikguldsmed"
+      ],
+      "difficulty": "svær",
+      "kategori": "økologi"
+    },
+    {
+      "id": 176,
+      "question": "Hvilken bilag IV-art lever i hule løvtræer?",
+      "correctAnswer": "Eremit",
+      "options": [
+        "Eremit",
+        "Hasselmus",
+        "Birkemus",
+        "Bæver"
+      ],
+      "difficulty": "svær",
+      "kategori": "økologi"
+    },
+    {
+      "id": 177,
+      "question": "Hvilken bilag IV-art er stærkt afhængig af gamle veterantræer?",
+      "correctAnswer": "Eremit",
+      "options": [
+        "Eremit",
+        "Hasselmus",
+        "Bæver",
+        "Markfirben"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 178,
+      "question": "Hvad bruger man eDNA-analyse til?",
+      "correctAnswer": "Påvise arter via DNA-spor i miljøet",
+      "options": [
+        "Påvise arter via DNA-spor i miljøet",
+        "Genetisk modificering",
+        "Faderskabstest",
+        "Vandkvalitetsmåling"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
+    },
+    {
+      "id": 179,
+      "question": "Hvad er en metapopulation?",
+      "correctAnswer": "Sammenhængende delbestande forbundet ved spredning",
+      "options": [
+        "Sammenhængende delbestande forbundet ved spredning",
+        "En stor central bestand",
+        "En isoleret bestand",
+        "En udsat bestand"
+      ],
+      "difficulty": "svær",
+      "kategori": "terminologi"
+    },
+    {
+      "id": 180,
+      "question": "Hvor mange arter dækker DCE-rapport SR520 fra 2023?",
+      "correctAnswer": "22 bilag IV-arter",
+      "options": [
+        "22 bilag IV-arter",
+        "10 bilag IV-arter",
+        "50 bilag IV-arter",
+        "100 bilag IV-arter"
+      ],
+      "difficulty": "svær",
+      "kategori": "bevarelse"
     }
   ]
 }

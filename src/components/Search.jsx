@@ -39,6 +39,8 @@ const Search = ({ onBack }) => {
     { id: 'krybdyr', label: 'Krybdyr', emoji: '🦎' },
     { id: 'pattedyr', label: 'Pattedyr', emoji: '🦦' },
     { id: 'fisk', label: 'Fisk', emoji: '🐟' },
+    { id: 'insekt', label: 'Insekter', emoji: '🦋' },
+    { id: 'bløddyr', label: 'Bløddyr', emoji: '🐚' },
   ]
 
   return (
